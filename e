@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:20,12 TV Parma (540p) [Not 24/7]
-https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+#EXTINF:0 Infowars
+https://freespeech.akamaized.net/hls/live/2024573/live2/video_4/video_4.m3u8
