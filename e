@@ -5,3 +5,5 @@ https://livestream-f.akamaihd.net/i/17251372_4846282_42817472_1@366744/index_864
 https://d1iiqllagryue9.cloudfront.net/kclv/live.m3u8
 #EXTINF:-1 tvg-name="The CW Las Vegas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Kvcw_cw.PNG",The CW Las Vegas
 https://content.uplynk.com/22ef22a4cc20434aafebf235f101f841.m3u8?tc=1&exp=1642906818&rn=228169&ct=a&cid=22ef22a4cc20434aafebf235f101f841&sig=bf0469cf2f56697397247dd0be7e38fc649dcd1a6f2bdc716876991270801143
+#EXTINF:-1 tvg-name="VegasLyfe TV" tvg-logo="https://www.vegaslifetv.us/assets/images/vltv-site-257x257-grad-257x257.jpg",VegasLyfe TV
+https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/df941b4f-4777-483e-a924-5699e3763b3a/2.m3u8
