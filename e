@@ -13,3 +13,5 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642972698/ei/u
 https://eu-nl-012.worldcast.tv/dancetelevisionseven/2/dancetelevisionseven.m3u8
 #EXTINF:-1 tvg-name="Viva Russia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/VIVA_TV_RUSSIA_LOGO.png/640px-VIVA_TV_RUSSIA_LOGO.png",Viva Russia
 http://autopilot.catcast.tv/content/39575/index.m3u8
+#EXTINF:-1 tvg-name="Kpop TV Play" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",Kpop TV Play
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1662357275.m3u8 
