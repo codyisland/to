@@ -11,3 +11,5 @@ https://vegaslifetv.ml/live/livestream/index.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642972698/ei/unHtYdibItm6kwawlq74Bw/ip/2600%3A8801%3A3521%3A7900%3A58a0%3A60c0%3A1bfc%3A9d2a/id/fUgzv-8_EMc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgLjnK453sckMHzifMTvaiWaRBXlYl3pYoJpzkm2VSeLkCIQDOcC5u1EJeoU9A3WDJyvs0H_DuZTjVRJZhTZl3ZiTaOQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-name="Mainstage" tvg-logo="https://www.youredm.com/wp-content/uploads/2015/03/ultra-main-stage.jpg",Mainstage
 https://eu-nl-012.worldcast.tv/dancetelevisionseven/2/dancetelevisionseven.m3u8
+#EXTINF:-1 tvg-name="Viva Russia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/VIVA_TV_RUSSIA_LOGO.png/640px-VIVA_TV_RUSSIA_LOGO.png",Viva Russia
+http://autopilot.catcast.tv/content/39575/index.m3u8
