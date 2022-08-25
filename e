@@ -22,7 +22,7 @@ https://msk.rtsp.me/QYOXRJvKkEC-1ZR7XJg3Tw/1645527322/hls/Tby6bQS2.m3u8
 #EXTINF:-1 tvg-name="MOOZ DANCE" tvg-logo="https://ritsatv.ru/files/poster/medium/700812.png",MOOZ DANCE
 https://canale.live/mtv.m3u8/?id=moozdance
 #EXTINF:-1 tvg-name="Infowars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Infowars_Logo.svg/1200px-Infowars_Logo.svg.png",Infowars
-https://freespeech.akamaized.net/hls/live/2024573/live2/video_2/video_2.m3u8
+https://freespeech.akamaized.net/hls/live/2024573-b/live2/video_1/video_1.m3u8
 #EXTINF:-1 tvg-name="MIXM" tvg-logo="https://www.vegaslifetv.us/assets/images/vltv-site-257x257-grad-257x257.jpg",MIXM
 
 #EXTINF:-1 tvg-name="VegasLyfe TV" tvg-logo="https://www.vegaslifetv.us/assets/images/vltv-site-257x257-grad-257x257.jpg",VegasLyfe TV
