@@ -25,8 +25,3 @@ https://canale.live/mtv.m3u8/?id=moozdance
 https://freespeech.akamaized.net/hls/live/2024573-b/live2/video_1/video_1.m3u8
 #EXTINF:-1 tvg-name="CatholicTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/CatholicTV_logo.png",CatholicTV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
-#EXTINF:-1 tvg-name="MIXM" tvg-logo="https://www.vegaslifetv.us/assets/images/vltv-site-257x257-grad-257x257.jpg",MIXM
-
-#EXTINF:-1 tvg-name="VegasLyfe TV" tvg-logo="https://www.vegaslifetv.us/assets/images/vltv-site-257x257-grad-257x257.jpg",VegasLyfe TV
-
-#EXTINF:-1 tvg-name="VegasLyfe TV" tvg-logo="https://www.vegaslifetv.us/assets/images/vltv-site-257x257-grad-257x257.jpg",VegasLyfe TV
