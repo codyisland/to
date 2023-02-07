@@ -13,7 +13,7 @@ https://eu-nl-012.worldcast.tv/dancetelevisionseven/2/dancetelevisionseven.m3u8
 http://autopilot.catcast.tv/content/39575/index.m3u8
 #EXTINF:-1 tvg-name="Kpop TV Play" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",Kpop TV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1662357275.m3u8 
-#EXTINF:-1 tvg-name="Trance Is Star" tvg-logo="https://ritsatv.ru/files/poster/medium/900450.jpg",VegasLyfe TV
+#EXTINF:-1 tvg-name="Trance Is Star" tvg-logo="https://ritsatv.ru/files/poster/medium/900450.jpg",Trance Is Star
 https://tis.catcast.tv/content/391/index.m3u8
 #EXTINF:-1 tvg-name="EURODANCE 90 TV" tvg-logo="https://ritsatv.ru/files/poster/medium/700809.jpg",EURODANCE 90 TV
 https://eurodance90.catcast.tv/content/36987/index.m3u8https://eurodance90.catcast.tv/content/36987/index.m3u8
