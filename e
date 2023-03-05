@@ -23,3 +23,5 @@ https://eurodance90.catcast.tv/content/36987/index.m3u8
 https://canale.live/mtv.m3u8/?id=moozdance
 #EXTINF:-1 tvg-name="CatholicTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/CatholicTV_logo.png",CatholicTV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1 tvg-name="LindellTV" tvg-logo="https://play-lh.googleusercontent.com/9pnRolOjVIAH-eBfGdAugzwhStEEqqOUiXbGi6drqiyko1irglhhYCywQkE4XQWk520=w240-h480-rw",LindellTV
+https://frnksocial.mmdlive.lldns.net/frnksocial/bb457320325b4676930a00ef6f8b0407/chunklist_b2592000.m3u8
