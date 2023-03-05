@@ -25,3 +25,5 @@ https://canale.live/mtv.m3u8/?id=moozdance
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 #EXTINF:-1 tvg-name="LindellTV" tvg-logo="https://play-lh.googleusercontent.com/9pnRolOjVIAH-eBfGdAugzwhStEEqqOUiXbGi6drqiyko1irglhhYCywQkE4XQWk520=w240-h480-rw",LindellTV
 https://frnksocial.mmdlive.lldns.net/frnksocial/bb457320325b4676930a00ef6f8b0407/chunklist_b2592000.m3u8
+#EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1200px-GB_News_Logo.svg.png",GB News
+https://live-gbnews-ssai.simplestreamcdn.com/v1/manifest/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/274b6bb9-46e9-4031-99e6-e22d2a042e66/2.m3u8
