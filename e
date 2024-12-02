@@ -30,4 +30,4 @@ https://live-gbnews.simplestreamcdn.com/s3/gbnews_ssai/index_4.m3u8
 #EXTINF:-1 tvg-name="Patriot's Soap Box" tvg-logo="https://1.bp.blogspot.com/-0KEJmyCHaI0/XckZpMTxrTI/AAAAAAAAANg/2Zscct5r_RIKqKztKRR6XeIcPwTR5H6DwCLcBGAsYHQ/s1600/PSB.png",Patriot's Soap Box
 https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-2/7khd-1d5a_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-name="Sonny's Test" tvg-logo="https://1.bp.blogspot.com/-0KEJmyCHaI0/XckZpMTxrTI/AAAAAAAAANg/2Zscct5r_RIKqKztKRR6XeIcPwTR5H6DwCLcBGAsYHQ/s1600/PSB.png",Sonny's Test
-http://192.168.1.1151:8409/iptv/channel/1.m3u8?mode=segmenter
+http://192.168.1.151:8409/iptv/channel/1.m3u8?mode=segmenter
