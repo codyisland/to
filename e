@@ -33,3 +33,5 @@ https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-2/7khd-1d5a_1080p/chunklist_DVR
 http://192.168.1.151:8409/iptv/channel/1.m3u8?mode=segmenter
 #EXTINF:-1 tvg-name="That Girl" tvg-logo="https://logodix.com/logo/960788.png",That Girl
 http://192.168.1.151:8409/iptv/channel/2.m3u8?mode=segmenter
+#EXTINF:-1 tvg-name="Spinnin' Records" tvg-id="Spinninrecords.com" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-news-light-us.png?raw=true" group-title="Music",Spinnin' Records
+http://192.168.1.151:6095/stream?url=https://www.youtube.com/@spinninrecords/live
