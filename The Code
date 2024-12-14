@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="MNN" tvg-id="MNN.org" tvg-logo="https://www.zivtech.com/sites/default/files/2017-11/logo__mnn--white.png" group-title="News",MNN
+http://192.168.1.174:6095/stream?url=https://livestream.com/mnnhd/events/10721168
+#EXTINF:-1 tvg-name="KCLV Channel 2" tvg-logo="https://sawebfilesprod001.blob.core.windows.net/images/Logo/KCLV.png?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=7%2BprihgCUSm1%2BaWG1ul6MaqSb2VD3z1wL1jQ05%2FL%2Bkk%3D",KCLV Channel 2
+https://d1iiqllagryue9.cloudfront.net/kclv/live.m3u8
+#EXTINF:-1 tvg-name="The CW West Virginia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Kvcw_cw.PNG",The CW West Virginia
+https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=d8671ed2bee24aaa05ff70ccac6516e9
+#EXTINF:-1 tvg-name="VegasLyfeTV" tvg-logo="https://www.vegaslifetv.us/assets/images/vltv-wm-white-logo-131x131.png",VegasLyfeTV
+https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8
+#EXTINF:-1 tvg-name="UVB-76/The Buzzer" tvg-logo="https://media.wired.com/photos/5a9f426a4e7600696b557cd2/master/pass/ff_uvb76_f.jpg",UVB-76/The Buzzer
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642972698/ei/unHtYdibItm6kwawlq74Bw/ip/2600%3A8801%3A3521%3A7900%3A58a0%3A60c0%3A1bfc%3A9d2a/id/fUgzv-8_EMc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgLjnK453sckMHzifMTvaiWaRBXlYl3pYoJpzkm2VSeLkCIQDOcC5u1EJeoU9A3WDJyvs0H_DuZTjVRJZhTZl3ZiTaOQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-name="Mainstage" tvg-logo="https://www.youredm.com/wp-content/uploads/2015/03/ultra-main-stage.jpg",Mainstage
+https://eu-nl-012.worldcast.tv/dancetelevisionseven/2/dancetelevisionseven.m3u8
+#EXTINF:-1 tvg-name="Viva Russia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/VIVA_TV_RUSSIA_LOGO.png/640px-VIVA_TV_RUSSIA_LOGO.png",Viva Russia
+http://autopilot.catcast.tv/content/39575/index.m3u8
+#EXTINF:-1 tvg-name="Kpop TV Play" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",Kpop TV Play
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1662357275.m3u8 
+#EXTINF:-1 tvg-name="Trance Is Star" tvg-logo="https://ritsatv.ru/files/poster/medium/900450.jpg",Trance Is Star
+https://tis.catcast.tv/content/391/index.m3u8
+#EXTINF:-1 tvg-name="EURODANCE 90 TV" tvg-logo="https://ritsatv.ru/files/poster/medium/700809.jpg",EURODANCE 90 TV
+https://v2.catcast.tv/content/39803/index.m3u8
+#EXTINF:-1 tvg-name="MOOZ DANCE" tvg-logo="https://ritsatv.ru/files/poster/medium/700812.png",MOOZ DANCE
+https://canale.live/mtv.m3u8/?id=moozdance
+#EXTINF:-1 tvg-name="CatholicTV" tvg-logo="https://i.imgur.com/Km8FBw8.png",CatholicTV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1 tvg-name="LindellTV" tvg-logo="https://play-lh.googleusercontent.com/9pnRolOjVIAH-eBfGdAugzwhStEEqqOUiXbGi6drqiyko1irglhhYCywQkE4XQWk520=w240-h480-rw",LindellTV
+https://watch.frankspeech.io/hls/cf4e6ec7-2e3d-42bb-8787-7973293f610d_1080.m3u8
+#EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1200px-GB_News_Logo.svg.png",GB News
+https://live-gbnews.simplestreamcdn.com/s3/gbnews_ssai/index_4.m3u8
+#EXTINF:-1 tvg-name="Patriot's Soap Box" tvg-logo="https://1.bp.blogspot.com/-0KEJmyCHaI0/XckZpMTxrTI/AAAAAAAAANg/2Zscct5r_RIKqKztKRR6XeIcPwTR5H6DwCLcBGAsYHQ/s1600/PSB.png",Patriot's Soap Box
+https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-2/7khd-1d5a_1080p/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-name="Sonny's Test" tvg-logo="https://1.bp.blogspot.com/-0KEJmyCHaI0/XckZpMTxrTI/AAAAAAAAANg/2Zscct5r_RIKqKztKRR6XeIcPwTR5H6DwCLcBGAsYHQ/s1600/PSB.png",Sonny's Test
+http://192.168.1.174:8409/iptv/channel/1.m3u8?mode=segmenter
+#EXTINF:-1 tvg-name="That Girl" tvg-logo="https://logodix.com/logo/960788.png",That Girl
+http://192.168.1.174:8409/iptv/channel/2.m3u8?mode=segmenter
+#EXTINF:-1 tvg-name="Spinnin' Records" tvg-id="Spinninrecords.com" tvg-logo="https://i.imgur.com/e527uAx.png" group-title="Music",Spinnin' Records
+http://192.168.1.174:6095/stream?url=https://www.youtube.com/@spinninrecords/live
+#EXTINF:-1 tvg-name="Clark County TV" tvg-id="clarkcountynv.gov" tvg-logo="https://th.bing.com/th/id/R.8d0cfa6fee7701b39fef7e845e9e1202?rik=6RETB1vbEMg3IQ&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="Local",Clark County TV
+http://192.168.1.174:6095/stream?url=https://www.youtube.com/@ClarkCountyNV/live
