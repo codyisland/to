@@ -32,7 +32,7 @@ https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-2/7khd-1d5a_1080p/chunklist_DVR
 #EXTINF:-1 tvg-name="Sonny's Test" tvg-logo="https://1.bp.blogspot.com/-0KEJmyCHaI0/XckZpMTxrTI/AAAAAAAAANg/2Zscct5r_RIKqKztKRR6XeIcPwTR5H6DwCLcBGAsYHQ/s1600/PSB.png",Sonny's Test
 http://192.168.1.174:8409/iptv/channel/1.m3u8?mode=segmenter
 #EXTINF:-1 tvg-name="That Girl" tvg-logo="https://logodix.com/logo/960788.png",That Girl
-http://192.168.1.174:8409/iptv/channel/2.m3u8?mode=segmenter
+http://192.168.1.174:8409/iptv/channel/1.m3u8?mode=segmenter
 #EXTINF:-1 tvg-name="Spinnin' Records" tvg-id="Spinninrecords.com" tvg-logo="https://i.imgur.com/e527uAx.png" group-title="Music",Spinnin' Records
 http://192.168.1.174:6095/stream?url=https://www.youtube.com/@spinninrecords/live
 #EXTINF:-1 tvg-name="Clark County TV" tvg-id="clarkcountynv.gov" tvg-logo="https://th.bing.com/th/id/R.8d0cfa6fee7701b39fef7e845e9e1202?rik=6RETB1vbEMg3IQ&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="Local",Clark County TV
