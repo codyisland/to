@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV2000">
+    <display-name lang="de">TV2000</display-name>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/6170b2ac-699c-4149-ad20-db90bc37a145_W90.png" />
+    <url>http://www.tv.blue.ch</url>
+  </channel>
   <channel id="The Film Detective">
     <display-name lang="en">The Film Detective</display-name>
     <url>http://www.filmon.com</url>
@@ -25,11 +30,6 @@
     <display-name lang="en">Lone Star</display-name>
     <url>http://www.distro.tv</url>
   </channel>
-  <channel id="TV2000">
-    <display-name lang="de">TV2000</display-name>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/6170b2ac-699c-4149-ad20-db90bc37a145_W90.png" />
-    <url>http://www.tv.blue.ch</url>
-  </channel>
   <channel id="GB News">
     <display-name lang="en">GB News</display-name>
     <icon src="http://static.filmon.com/couch/channels/6221/big_logo.png" />
@@ -48,6 +48,1326 @@
     <display-name lang="en">Monarch</display-name>
     <url>http://www.distro.tv</url>
   </channel>
+  <programme start="20241214001000 +0000" stop="20241214012000 +0000" channel="TV2000">
+    <title lang="en">Di buon mattino</title>
+  </programme>
+  <programme start="20241214012000 +0000" stop="20241214020000 +0000" channel="TV2000">
+    <title lang="en">Caro Gesù</title>
+  </programme>
+  <programme start="20241214020000 +0000" stop="20241214025500 +0000" channel="TV2000">
+    <title lang="en">Quel che bolle in pentola</title>
+    <desc lang="en">Ecco una fregola sarda con ricci e bottarga, polenta e ciambella della nonna.</desc>
+  </programme>
+  <programme start="20241214025500 +0000" stop="20241214030000 +0000" channel="TV2000">
+    <title lang="en">Angelus</title>
+  </programme>
+  <programme start="20241214030000 +0000" stop="20241214032000 +0000" channel="TV2000">
+    <title lang="en">TG 2000</title>
+    <desc lang="en">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.</desc>
+  </programme>
+  <programme start="20241214032000 +0000" stop="20241214035000 +0000" channel="TV2000">
+    <title lang="en">Borghi d'Italia</title>
+    <sub-title lang="en">Montaquila</sub-title>
+    <desc lang="en">Scopriamo il comune di Montaquila, in Molise. Nel corso del programma intervengono il sindaco, il parroco e gli altri protagonisti della vita cittadina, che descrivono il loro paese attraverso i borghi, le chiese e lo storico fiume Volturno.</desc>
+  </programme>
+  <programme start="20241214035500 +0000" stop="20241214040000 +0000" channel="TV2000">
+    <title lang="it">Borghi d'Italia</title>
+    <desc lang="it">Un viaggio sul territorio con lo sguardo rivolto alle persone, all'ambiente, al paesaggio al folklore. I borghi italiani visti come comunità e traino semplice, ma forte, di un intero territorio; il tutto dal vivo.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567814ih8ab_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214040000 +0000" stop="20241214042500 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214042500 +0000" stop="20241214044000 +0000" channel="TV2000">
+    <title lang="it">Firmato da te</title>
+    <desc lang="it">I progetti portati avanti in concreto con parte dell'Otto per mille destinato alla Chiesa cattolica.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22717742eh10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S1 E19</episode-num>
+  </programme>
+  <programme start="20241214044000 +0000" stop="20241214053000 +0000" channel="TV2000">
+    <title lang="it">Quel che bolle in pentola</title>
+    <desc lang="it">Prepariamo la pasta alla carrettiera, una torta fredda alle albicocche e dei fagottini di mela.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28338413bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214053000 +0000" stop="20241214054000 +0000" channel="TV2000">
+    <title lang="it">Preghiera del mattino</title>
+    <desc lang="it">Un momento collettivo di riflessione e spiritualità, che va dal Credo al Padre Nostro.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26023493ih8aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214054000 +0000" stop="20241214060500 +0000" channel="TV2000">
+    <title lang="it">Effetto notte</title>
+    <desc lang="it">Il cinema è un flusso, si alimenta delle sue storie, dei suoi volti, ieri come oggi. Effetto notte torna in versione rinnovata, e guida gli spettatori in un originale ma elementare percorso attraverso il cinema di ieri, di oggi e di domani.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567609ih8aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214060500 +0000" stop="20241214063500 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214063500 +0000" stop="20241214070000 +0000" channel="TV2000">
+    <title lang="it">Terra Santa News</title>
+    <desc lang="it">Il Franciscan Media Center propone tutte le settimane, da Gerusalemme, un notiziario che racconta la Terra Santa tra fede, storia, e attualità per svelare tutta la ricchezza di questa terra di Dio, così spesso dimenticata.</desc>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8207056ih10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214070000 +0000" stop="20241214072500 +0000" channel="TV2000">
+    <title lang="it">Indagine ai confini del sacro</title>
+    <desc lang="it">Addentriamoci insieme nel misterioso e segreto mondo delle sette e dell'occultismo, per scoprirne tutti i dettagli e le curiosità.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11250781bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214072500 +0000" stop="20241214073000 +0000" channel="TV2000">
+    <title lang="it">TG 2000 Flash</title>
+    <desc lang="it">Un'edizione rapida del telegiornale, per gli aggiornamenti sulle informazioni più importanti in materia di cronaca, politica, cultura, società e sport, a cura della redazione giornalistica della rete.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26044940ih11aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214073000 +0000" stop="20241214081000 +0000" channel="TV2000">
+    <title lang="it">Santa Messa</title>
+    <desc lang="it">In diretta dalla Basilica di San Pietro in Vaticano, la Santa Messa celebrata dal Sua Santità, Papa Francesco.</desc>
+    <date>2012</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p481891ih10ad_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214081000 +0000" stop="20241214092000 +0000" channel="TV2000">
+    <title lang="it">Di buon mattino</title>
+    <desc lang="it">I due conduttori ci parlano di attualità, economia, costume, spettacolo, musica, cucina, curiosità, religione e feste popolari. In studio, insieme a loro, sono presenti anche ospiti ed esperti per discutere dei temi più vari.</desc>
+    <credits>
+      <director>Paolo Ferrazza</director>
+      <director>Fabrizio Pieracci</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20623902bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214092000 +0000" stop="20241214100000 +0000" channel="TV2000">
+    <title lang="it">Caro Gesù</title>
+    <desc lang="it">Una striscia quotidiana, dedicata ai più piccoli che seguono un percorso di fede. La catechista in studio risponde alle domande dei bambini in materia di religione.</desc>
+    <credits>
+      <director>Antonella Becciu</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18119732bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214100000 +0000" stop="20241214105500 +0000" channel="TV2000">
+    <title lang="it">Quel che bolle in pentola</title>
+    <desc lang="it">Ecco una fregola sarda con ricci e bottarga, polenta e ciambella della nonna.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28338413bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214105500 +0000" stop="20241214110000 +0000" channel="TV2000">
+    <title lang="it">Angelus</title>
+    <desc lang="it">Il pontefice celebra il rito per i fedeli di tutto il mondo cristiano cattolico.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567918bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">VA</country>
+  </programme>
+  <programme start="20241214110000 +0000" stop="20241214112000 +0000" channel="TV2000">
+    <title lang="it">TG 2000</title>
+    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214112000 +0000" stop="20241214115000 +0000" channel="TV2000">
+    <title lang="it">Borghi d'Italia</title>
+    <sub-title lang="it">Montaquila</sub-title>
+    <desc lang="it">Scopriamo il comune di Montaquila, in Molise. Nel corso del programma intervengono il sindaco, il parroco e gli altri protagonisti della vita cittadina, che descrivono il loro paese attraverso i borghi, le chiese e lo storico fiume Volturno.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26334145eh10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S15 E12</episode-num>
+  </programme>
+  <programme start="20241214115000 +0000" stop="20241214132500 +0000" channel="TV2000">
+    <title lang="it">Marina</title>
+    <desc lang="it">La storia d'amore tra Alex, giovane avvocato, e Marina, aspirante stilista, ostacolata dal rancore che divide le rispettive famiglie.</desc>
+    <credits>
+      <director>Lito De Filippis</director>
+      <actor role="Alex Alonso">Ricardo Darín</actor>
+      <actor role="Marina Roldán">Grecia Colmenares</actor>
+      <actor role="Andrés">Luis Luque</actor>
+      <actor role="Vicente">Enrique Liporace</actor>
+      <actor role="Beatriz">Esther Goris</actor>
+      <actor role="Brenda">Victoria Carreras</actor>
+      <actor>Gilda Lousek</actor>
+      <actor>Juan Tenuta</actor>
+      <actor>Marisa Carreras</actor>
+      <actor>Daniel Lago</actor>
+    </credits>
+    <date>1989</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28343442ih8aa_Iconic_W660.webp" />
+    <country lang="it">AR</country>
+  </programme>
+  <programme start="20241214132500 +0000" stop="20241214140000 +0000" channel="TV2000">
+    <title lang="it">Sulla strada</title>
+    <desc lang="it">Sulle strade del mondo e della vita accompagnati dalla parola del Vangelo. L'analisi del Vangelo è illustrata da immagini animate che ci riportano la storia e l'ambiente in cui Gesù viveva.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11413266bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214140000 +0000" stop="20241214141500 +0000" channel="TV2000">
+    <title lang="it">Coroncina alla Divina Misericordia</title>
+    <desc lang="it">Seguiamo insieme la recita della preghiera devozionale, ideata nel 1935 da suor Faustina Kowalska. I versi sono ispirati dalla visione di un angelo di cui la santa fu testimone durante la sua vita.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15466290bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214141500 +0000" stop="20241214150000 +0000" channel="TV2000">
+    <title lang="it">Alle porte del Giubileo</title>
+    <desc lang="it">Scopriamo l'attualità dell'Anno Santo e prepariamoci a viverlo in maniera consapevole e spirituale.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28769893ih8aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214150000 +0000" stop="20241214162000 +0000" channel="TV2000">
+    <title lang="it">Marina</title>
+    <desc lang="it">La storia d'amore tra Alex, giovane avvocato, e Marina, aspirante stilista, ostacolata dal rancore che divide le rispettive famiglie.</desc>
+    <credits>
+      <director>Lito De Filippis</director>
+      <actor role="Alex Alonso">Ricardo Darín</actor>
+      <actor role="Marina Roldán">Grecia Colmenares</actor>
+      <actor role="Andrés">Luis Luque</actor>
+      <actor role="Vicente">Enrique Liporace</actor>
+      <actor role="Beatriz">Esther Goris</actor>
+      <actor role="Brenda">Victoria Carreras</actor>
+      <actor>Gilda Lousek</actor>
+      <actor>Juan Tenuta</actor>
+      <actor>Marisa Carreras</actor>
+      <actor>Daniel Lago</actor>
+    </credits>
+    <date>1989</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28343442ih8aa_Iconic_W660.webp" />
+    <country lang="it">AR</country>
+  </programme>
+  <programme start="20241214162000 +0000" stop="20241214165500 +0000" channel="TV2000">
+    <title lang="it">I simboli del sacro</title>
+    <sub-title lang="it">Il giglio</sub-title>
+    <desc lang="it">Il simbolo cristiano del giglio rimanda immediatamente alla purezza, e quindi a Maria. A Firenze, il giglio ne è il simbolo araldico, e si mostra apertamente tra i suoi palazzi e le sue vie, perchè fiorente è l'anima cristiana di questa città.</desc>
+    <credits>
+      <director>Filippo Genovese</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/633/400.422_genre_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20241214165500 +0000" stop="20241214172500 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214172500 +0000" stop="20241214180000 +0000" channel="TV2000">
+    <title lang="it">TG 2000</title>
+    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214180000 +0000" stop="20241214190000 +0000" channel="TV2000">
+    <title lang="it">Santa Messa</title>
+    <desc lang="it">In diretta dalla Basilica di San Pietro in Vaticano, la Santa Messa celebrata dal Sua Santità, Papa Francesco.</desc>
+    <date>2012</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p481891ih10ad_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214190000 +0000" stop="20241214194500 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214194500 +0000" stop="20241214200500 +0000" channel="TV2000">
+    <title lang="it">TG 2000</title>
+    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241214200500 +0000" stop="20241214220000 +0000" channel="TV2000">
+    <title lang="it">Mr. Magorium e la bottega delle meraviglie</title>
+    <desc lang="it">Quando l'eccentrico proprietario di un magico negozio di giocattoli decide di lasciare spazio al suo assistente, le cose cambiano.</desc>
+    <credits>
+      <director>Zach Helm</director>
+      <actor role="Molly Mahoney">Natalie Portman</actor>
+      <actor role="Mr. Magorium">Dustin Hoffman</actor>
+      <actor role="Henry Weston">Jason Bateman</actor>
+      <actor role="Eric Applebaum">Zach Mills</actor>
+      <actor>Madalena Brancatella</actor>
+      <actor>Paula Boudreau</actor>
+      <actor>Mike Realba</actor>
+      <actor>Marcia Bennett</actor>
+    </credits>
+    <date>2007</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p167935bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20241214220000 +0000" stop="20241214235000 +0000" channel="TV2000">
+    <title lang="it">La passione di Bernadette</title>
+    <desc lang="it">L'undici Febbraio del 1958, la quattordicenne Bernadette Soubirous, assiste alla misteriosa visione di una signora di bianco vestita.</desc>
+    <credits>
+      <director>Jean Delannoy</director>
+      <actor role="Bernadette Soubirous">Sydney Penny</actor>
+      <actor role="Mère Marie-Thérèse Vauzou">Emmanuelle Riva</actor>
+      <actor role="Mgr Dupanloup">Catherine de Seynes</actor>
+      <actor>Malka Ribowska</actor>
+      <actor>Georges Wilson</actor>
+      <actor>Michèle André</actor>
+      <actor>Maurice Jacquemont</actor>
+      <actor>Roland Lesaffre</actor>
+      <actor>Michel Ruhl</actor>
+      <actor>Michèle Simonnet</actor>
+    </credits>
+    <date>1990</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p35028ih10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+  </programme>
+  <programme start="20241214235000 +0000" stop="20241215000500 +0000" channel="TV2000">
+    <title lang="it">La compieta, preghiera della sera</title>
+    <desc lang="it">Le monache agostiniane del convento dei Santi Quattro Coronati in Roma recitano la compieta, preghiera della sera che comprende un salmo, una breve lettura e il cantico di Zaccaria.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13456429bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20241215000500 +0000" stop="20241215004000 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <sub-title lang="it">Dalla basilica papale di Santa Maria Maggiore in Roma</sub-title>
+    <desc lang="it">Dalla cappella della 'Salus Populi Romani', la preghiera dei misteri da parte del clero locale.</desc>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215004000 +0000" stop="20241215010000 +0000" channel="TV2000">
+    <title lang="it">Sulla strada</title>
+    <desc lang="it">Sulle strade del mondo e della vita accompagnati dalla parola del Vangelo. L'analisi del Vangelo è illustrata da immagini animate che ci riportano la storia e l'ambiente in cui Gesù viveva.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11413266bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215010000 +0000" stop="20241215013000 +0000" channel="TV2000">
+    <title lang="it">I Santi</title>
+    <sub-title lang="it">San Riccardo Pampuri</sub-title>
+    <desc lang="it">Riccardo Pampuri è stato un religioso e medico italiano dell'Ordine Ospedaliero di San Giovanni. A novembre del 1989, fu proclamato santo da Papa Giovanni Paolo II.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17888880bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20241215013000 +0000" stop="20241215023000 +0000" channel="TV2000">
+    <title lang="it">Il canto gregoriano</title>
+    <desc lang="it">Il cosiddetto canto gregoriano è stato scelto ai primi del novecento come modello assoluto di musica da chiesa. La monodia liturgica ha, infatti, lunghe tradizioni nella storia del cristianesimo.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13627229ih10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215023000 +0000" stop="20241215025500 +0000" channel="TV2000">
+    <title lang="it">I Santi</title>
+    <sub-title lang="it">San Carlo Borromeo</sub-title>
+    <desc lang="it">Un documentario dedicato a Carlo Borromeo, cardinale e arcivescovo venerato come santo dalla Chiesa cattolica, canonizzato nel 1610 da papa Paolo V a soli 26 anni dalla morte.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21029616eh10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20241215025500 +0000" stop="20241215030000 +0000" channel="TV2000">
+    <title lang="it">Borghi d'Italia</title>
+    <sub-title lang="it">Vallecorsa</sub-title>
+    <desc lang="it">Casa natale Santa Maria de Mattias, Muretti a secco patrimonio dell' Unesco.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25018283eh11aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S13 E95</episode-num>
+  </programme>
+  <programme start="20241215030000 +0000" stop="20241215035000 +0000" channel="TV2000">
+    <title lang="it">Quel che bolle in pentola</title>
+    <desc lang="it">Cuciniamo gnocchi rossi all'italiana, spaghetti con le telline e orata al guazzetto.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28338413bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215035000 +0000" stop="20241215040000 +0000" channel="TV2000">
+    <title lang="it">Borghi d'Italia</title>
+    <desc lang="it">Un viaggio sul territorio con lo sguardo rivolto alle persone, all'ambiente, al paesaggio al folklore. I borghi italiani visti come comunità e traino semplice, ma forte, di un intero territorio; il tutto dal vivo.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567814ih8ab_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215040000 +0000" stop="20241215043000 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215043000 +0000" stop="20241215050000 +0000" channel="TV2000">
+    <title lang="it">I Santi</title>
+    <sub-title lang="it">Santa Teresina del bambin Gesù di Lisieux</sub-title>
+    <desc lang="it">Suor Teresa di Gesù Bambino e del Volto Santo, detta di Lisieux, fu beatificata il 29 aprile 1923 da papa Pio XI, e proclamata santa dallo stesso papa il 17 maggio 1925.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17888880bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+  </programme>
+  <programme start="20241215050000 +0000" stop="20241215051000 +0000" channel="TV2000">
+    <title lang="it">Preghiera del mattino</title>
+    <desc lang="it">Un momento collettivo di riflessione e spiritualità, che va dal Credo al Padre Nostro.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26023493ih8aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215051000 +0000" stop="20241215053000 +0000" channel="TV2000">
+    <title lang="it">Terra Santa News</title>
+    <desc lang="it">Il Franciscan Media Center propone tutte le settimane, da Gerusalemme, un notiziario che racconta la Terra Santa tra fede, storia, e attualità per svelare tutta la ricchezza di questa terra di Dio, così spesso dimenticata.</desc>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8207056ih10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215053000 +0000" stop="20241215060000 +0000" channel="TV2000">
+    <title lang="it">Borghi d'Italia</title>
+    <sub-title lang="it">Montaquila</sub-title>
+    <desc lang="it">Scopriamo il comune di Montaquila, in Molise. Nel corso del programma intervengono il sindaco, il parroco e gli altri protagonisti della vita cittadina, che descrivono il loro paese attraverso i borghi, le chiese e lo storico fiume Volturno.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26334145eh10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S15 E12</episode-num>
+  </programme>
+  <programme start="20241215060000 +0000" stop="20241215063000 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215063000 +0000" stop="20241215070500 +0000" channel="TV2000">
+    <title lang="it">Retroscena</title>
+    <desc lang="it">Serie di reportage che vogliono testimoniare la forma e la sostanza del teatro oggi, con le sue espressioni, i suoi mutamenti, i suoi scenari e le sue tendenze.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10879038ih10ae_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215070500 +0000" stop="20241215073000 +0000" channel="TV2000">
+    <title lang="it">Sulla strada</title>
+    <desc lang="it">Sulle strade del mondo e della vita accompagnati dalla parola del Vangelo. L'analisi del Vangelo è illustrata da immagini animate che ci riportano la storia e l'ambiente in cui Gesù viveva.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11413266bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215073000 +0000" stop="20241215082000 +0000" channel="TV2000">
+    <title lang="it">Santa Messa</title>
+    <desc lang="it">In diretta dalla Basilica di San Pietro in Vaticano, la Santa Messa celebrata dal Sua Santità, Papa Francesco.</desc>
+    <date>2012</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p481891ih10ad_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215082000 +0000" stop="20241215085000 +0000" channel="TV2000">
+    <title lang="it">Buongiorno Professore</title>
+    <desc lang="it">Le lezioni del professor Andrea Monda,insegnante di religione cattolica presso il liceo classico Pilo Albertelli nel centro di Roma.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12218417ih10ab_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215085000 +0000" stop="20241215091500 +0000" channel="TV2000">
+    <title lang="it">Il diario di Papa Francesco</title>
+    <desc lang="it">Gli impegni e le iniziative del Santo Padre: udienze, documenti, incontri, discorsi, omelie e gesti. Seguiamolo passo dopo passo, con inviati, servizi, interviste e dirette.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10879051bdh10af_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215091500 +0000" stop="20241215094500 +0000" channel="TV2000">
+    <title lang="it">Viaggio Apostolico del Santo Padre ad Ajaccio</title>
+    <sub-title lang="it">Sessione conclusiva del Congresso</sub-title>
+    <desc lang="it">Dal Palais des Congrès et d'Exposition d'Ajaccio, Sua Santità Papa Francesco I presiede la sessione conclusiva del congresso "La Religiosité Populaire en Méditerranée", in cui tiene un discorso.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28884273bdh8aa_Backdrop_W660.webp" />
+    <country lang="it">VA</country>
+  </programme>
+  <programme start="20241215094500 +0000" stop="20241215102000 +0000" channel="TV2000">
+    <title lang="it">Il diario di Papa Francesco</title>
+    <desc lang="it">Gli impegni e le iniziative del Santo Padre: udienze, documenti, incontri, discorsi, omelie e gesti. Seguiamolo passo dopo passo, con inviati, servizi, interviste e dirette.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10879051bdh10af_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215102000 +0000" stop="20241215103500 +0000" channel="TV2000">
+    <title lang="it">Viaggio Apostolico del Santo Padre ad Ajaccio</title>
+    <sub-title lang="it">Angelus</sub-title>
+    <desc lang="it">Sua Santità Papa Francesco I recita la preghiera dell'Angelus con i vescovi, i sacerdoti, i diaconi, i consacrati e le consacrate e i seminaristi nella Cattedrale di Santa Maria Assunta.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28884273bdh8aa_Backdrop_W660.webp" />
+    <country lang="it">VA</country>
+  </programme>
+  <programme start="20241215103500 +0000" stop="20241215111500 +0000" channel="TV2000">
+    <title lang="it">Il diario di Papa Francesco</title>
+    <desc lang="it">Gli impegni e le iniziative del Santo Padre: udienze, documenti, incontri, discorsi, omelie e gesti. Seguiamolo passo dopo passo, con inviati, servizi, interviste e dirette.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10879051bdh10af_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215111500 +0000" stop="20241215115000 +0000" channel="TV2000">
+    <title lang="it">Borghi d'Italia</title>
+    <sub-title lang="it">Longarone</sub-title>
+    <desc lang="it">In provincia di Belluno, in un territorio lungo la valle del Piave, si trova Longarone, un comune incluso nel parco nazionale delle Dolomiti Bellunesi, noto per l'immane tragedia che lo ha investito.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567814bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S16 E12</episode-num>
+  </programme>
+  <programme start="20241215115000 +0000" stop="20241215140000 +0000" channel="TV2000">
+    <title lang="it">Mr. Magorium e la bottega delle meraviglie</title>
+    <desc lang="it">Quando l'eccentrico proprietario di un magico negozio di giocattoli decide di lasciare spazio al suo assistente, le cose cambiano.</desc>
+    <credits>
+      <director>Zach Helm</director>
+      <actor role="Molly Mahoney">Natalie Portman</actor>
+      <actor role="Mr. Magorium">Dustin Hoffman</actor>
+      <actor role="Henry Weston">Jason Bateman</actor>
+      <actor role="Eric Applebaum">Zach Mills</actor>
+      <actor>Madalena Brancatella</actor>
+      <actor>Paula Boudreau</actor>
+      <actor>Mike Realba</actor>
+      <actor>Marcia Bennett</actor>
+    </credits>
+    <date>2007</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p167935bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20241215140000 +0000" stop="20241215141500 +0000" channel="TV2000">
+    <title lang="it">Coroncina alla Divina Misericordia</title>
+    <desc lang="it">Seguiamo insieme la recita della preghiera devozionale, ideata nel 1935 da suor Faustina Kowalska. I versi sono ispirati dalla visione di un angelo di cui la santa fu testimone durante la sua vita.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15466290bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215141500 +0000" stop="20241215143000 +0000" channel="TV2000">
+    <title lang="it">Il diario di Papa Francesco</title>
+    <desc lang="it">Gli impegni e le iniziative del Santo Padre: udienze, documenti, incontri, discorsi, omelie e gesti. Seguiamolo passo dopo passo, con inviati, servizi, interviste e dirette.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10879051bdh10af_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215143000 +0000" stop="20241215165500 +0000" channel="TV2000">
+    <title lang="it">Viaggio Apostolico del Santo Padre ad Ajaccio</title>
+    <sub-title lang="it">Santa Messa</sub-title>
+    <desc lang="it">Dalla Place d'Austerlitz, la Santa Messa celebrata da Sua Santità Papa Francesco I.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28884273bdh8aa_Backdrop_W660.webp" />
+    <country lang="it">VA</country>
+  </programme>
+  <programme start="20241215165500 +0000" stop="20241215172500 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215172500 +0000" stop="20241215180500 +0000" channel="TV2000">
+    <title lang="it">TG 2000</title>
+    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215180500 +0000" stop="20241215190500 +0000" channel="TV2000">
+    <title lang="it">Santa Messa</title>
+    <desc lang="it">In diretta dalla Basilica di San Pietro in Vaticano, la Santa Messa celebrata dal Sua Santità, Papa Francesco.</desc>
+    <date>2012</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p481891ih10ad_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215190500 +0000" stop="20241215194500 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215194500 +0000" stop="20241215201000 +0000" channel="TV2000">
+    <title lang="it">TG 2000</title>
+    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215201000 +0000" stop="20241215203500 +0000" channel="TV2000">
+    <title lang="it">Soul</title>
+    <desc lang="it">In ogni puntata un personaggio pubblico si racconta, aprendo una finestra sulla propria anima e sulla propria umanità. Lo fa parlandoci delle proprie radici, della propria storia, del rapporto con la religione e non solo.</desc>
+    <credits>
+      <director>Cecilia Pronti</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11349854bdh10as_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241215203500 +0000" stop="20241215223000 +0000" channel="TV2000">
+    <title lang="it">The Water Diviner</title>
+    <desc lang="it">Quattro anni dopo la Battaglia di Gallipoli, l'agricoltore australiano Joshua Connor si reca in Turchia alla ricerca dei tre figli dispersi in guerra. Una volta giunto a Istanbul inizia un viaggio attraverso il paese per scoprire la verità.</desc>
+    <credits>
+      <director>Russell Crowe</director>
+      <actor role="Joshua Connor">Russell Crowe</actor>
+      <actor role="Ayshe">Olga Kurylenko</actor>
+      <actor role="Maggiore Hasan">Yilmaz Erdogan</actor>
+      <actor role="Jemal">Cem Yilmaz</actor>
+      <actor role="Hughes">Jai Courtney</actor>
+      <actor role="Omer">Dylan Georgiades</actor>
+      <actor role="Natalia">Steve Bastoni</actor>
+      <actor role="Fatma">Isabel Lucas</actor>
+      <actor role="Art">Salih Kalyon</actor>
+      <actor role="Edward">Megan Gale</actor>
+    </credits>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11007878bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">AU</country>
+    <country lang="it">TR</country>
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241215223000 +0000" stop="20241216003000 +0000" channel="TV2000">
+    <title lang="it">Guai con gli angeli</title>
+    <desc lang="it">Le vicende quotidiane di due ragazze adolescenti in un collegio cattolico. Vivaci e irrequiete, ne combinano di tutti i colori. Una delle amiche inizia a diventare una studentessa seria quando la Madre Superiora decide di non espellerla.</desc>
+    <credits>
+      <director>Ida Lupino</director>
+      <actor role="Mother Superior">Rosalind Russell</actor>
+      <actor role="Mary Clancy">Hayley Mills</actor>
+      <actor role="Sister Celestine">June Harding</actor>
+      <actor role="Sister Clarissa">Binnie Barnes</actor>
+      <actor role="Mrs. Phipps">Mary Wickes</actor>
+      <actor role="Sister Constance">Gypsy Rose Lee</actor>
+      <actor>Camilla Sparv</actor>
+      <actor>Bernadette Withers</actor>
+    </credits>
+    <date>1966</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p4632ih10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20241216003000 +0000" stop="20241216005500 +0000" channel="TV2000">
+    <title lang="it">Effetto notte</title>
+    <desc lang="it">Il cinema è un flusso, si alimenta delle sue storie, dei suoi volti, ieri come oggi. Effetto notte torna in versione rinnovata, e guida gli spettatori in un originale ma elementare percorso attraverso il cinema di ieri, di oggi e di domani.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567609ih8aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216005500 +0000" stop="20241216011000 +0000" channel="TV2000">
+    <title lang="it">Angelus</title>
+    <desc lang="it">Il pontefice celebra il rito per i fedeli di tutto il mondo cristiano cattolico.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567918bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">VA</country>
+  </programme>
+  <programme start="20241216011000 +0000" stop="20241216013000 +0000" channel="TV2000">
+    <title lang="it">La compieta, preghiera della sera</title>
+    <desc lang="it">Le monache agostiniane del convento dei Santi Quattro Coronati in Roma recitano la compieta, preghiera della sera che comprende un salmo, una breve lettura e il cantico di Zaccaria.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13456429bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20241216013000 +0000" stop="20241216015500 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <sub-title lang="it">Dalla basilica papale di Santa Maria Maggiore in Roma</sub-title>
+    <desc lang="it">Dalla cappella della 'Salus Populi Romani', la preghiera dei misteri da parte del clero locale.</desc>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216015500 +0000" stop="20241216023000 +0000" channel="TV2000">
+    <title lang="it">I Santi</title>
+    <sub-title lang="it">San Giovanni Bosco</sub-title>
+    <desc lang="it">Un documentario dedicato a San Giovanni Bosco, fondatore delle congregazioni dei Salesiani e delle Figlie di Maria Ausiliatrice. È stato canonizzato da papa Pio XI nel 1934.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17888880bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20241216023000 +0000" stop="20241216025500 +0000" channel="TV2000">
+    <title lang="it">Pinturicchio</title>
+    <desc lang="it">Documentario dedicato a Bernardino di Benedetto di Biagio, passato alla storia come il Pinturicchio, nato a Perugia tra il 1456 e il 1460 da una modesta famiglia di artigiani residente nel rione di Porta Sant' Angelo.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15225567ih10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216025500 +0000" stop="20241216034500 +0000" channel="TV2000">
+    <title lang="it">Quel che bolle in pentola</title>
+    <desc lang="it">Cuciniamo una parmigiana di finocchi, cupcake alla vaniglia con crema al burro e delle polpette.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28338413bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216034500 +0000" stop="20241216040000 +0000" channel="TV2000">
+    <title lang="it">Borghi d'Italia</title>
+    <desc lang="it">Un viaggio sul territorio con lo sguardo rivolto alle persone, all'ambiente, al paesaggio al folklore. I borghi italiani visti come comunità e traino semplice, ma forte, di un intero territorio; il tutto dal vivo.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567814ih8ab_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216040000 +0000" stop="20241216044000 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216044000 +0000" stop="20241216050000 +0000" channel="TV2000">
+    <title lang="it">In cammino</title>
+    <desc lang="it">Attraverso temi e ospiti diversi, si racconta il cammino della Chiesa verso il Sinodo, istituzione permanente del Collegio episcopale della Chiesa cattolica, fondato da Papa Paolo VI il 15 settembre 1965.</desc>
+    <credits>
+      <director>Cesare Miceli</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20726748bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216050000 +0000" stop="20241216054500 +0000" channel="TV2000">
+    <title lang="it">L'ora solare</title>
+    <desc lang="it">Storie di chi ha scelto di non arrendersi e si affida alla speranza: vicende difficili in famiglia e in amore, atti di fede, di impegno civile e sociale, di fratellanza. Una occasione di conoscenza e confronto.</desc>
+    <credits>
+      <director>Alessandro Tresa</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16098713bdh8ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216054500 +0000" stop="20241216060000 +0000" channel="TV2000">
+    <title lang="it">Preghiera del mattino</title>
+    <desc lang="it">Un momento collettivo di riflessione e spiritualità, che va dal Credo al Padre Nostro.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26023493ih8aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216060000 +0000" stop="20241216063000 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216063000 +0000" stop="20241216072500 +0000" channel="TV2000">
+    <title lang="it">Di buon mattino</title>
+    <desc lang="it">I due conduttori ci parlano di attualità, economia, costume, spettacolo, musica, cucina, curiosità, religione e feste popolari. In studio, insieme a loro, sono presenti anche ospiti ed esperti per discutere dei temi più vari.</desc>
+    <credits>
+      <director>Paolo Ferrazza</director>
+      <director>Fabrizio Pieracci</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20623902bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216072500 +0000" stop="20241216073000 +0000" channel="TV2000">
+    <title lang="it">TG 2000 Flash</title>
+    <desc lang="it">Un'edizione rapida del telegiornale, per gli aggiornamenti sulle informazioni più importanti in materia di cronaca, politica, cultura, società e sport, a cura della redazione giornalistica della rete.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26044940ih11aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216073000 +0000" stop="20241216081000 +0000" channel="TV2000">
+    <title lang="it">Santa Messa</title>
+    <desc lang="it">In diretta dalla Basilica di San Pietro in Vaticano, la Santa Messa celebrata dal Sua Santità, Papa Francesco.</desc>
+    <date>2012</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p481891ih10ad_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216081000 +0000" stop="20241216084500 +0000" channel="TV2000">
+    <title lang="it">Di buon mattino</title>
+    <desc lang="it">I due conduttori ci parlano di attualità, economia, costume, spettacolo, musica, cucina, curiosità, religione e feste popolari. In studio, insieme a loro, sono presenti anche ospiti ed esperti per discutere dei temi più vari.</desc>
+    <credits>
+      <director>Paolo Ferrazza</director>
+      <director>Fabrizio Pieracci</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20623902bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216084500 +0000" stop="20241216093000 +0000" channel="TV2000">
+    <title lang="it">Il mio medico</title>
+    <desc lang="it">Programma di informazione medica a servizio dei cittadini pensato per diffondere una cultura della salute basata sulla prevenzione, attraverso un linguaggio accessibile e l'ascolto del proprio corpo.</desc>
+    <credits>
+      <director>Fabrizio Pieracci Galante</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11216799bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216093000 +0000" stop="20241216100000 +0000" channel="TV2000">
+    <title lang="it">Vediamoci chiaro</title>
+    <desc lang="it">Scopriamo insieme tutti i consigli e le opinioni su come tutelare i cittadini, e alcuni suggerimenti e soluzioni ai piccoli e grandi problemi delle famiglie.</desc>
+    <credits>
+      <director>Paolo Ferrazza</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20133951bdh10ad_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216100000 +0000" stop="20241216105500 +0000" channel="TV2000">
+    <title lang="it">Quel che bolle in pentola</title>
+    <desc lang="it">Cuciniamo insieme delle seppie con lenticchie, delle tigelle e una gustosa pinza.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28338413bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216105500 +0000" stop="20241216110000 +0000" channel="TV2000">
+    <title lang="it">Angelus</title>
+    <desc lang="it">Il pontefice celebra il rito per i fedeli di tutto il mondo cristiano cattolico.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567918bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">VA</country>
+  </programme>
+  <programme start="20241216110000 +0000" stop="20241216112000 +0000" channel="TV2000">
+    <title lang="it">TG 2000</title>
+    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216112000 +0000" stop="20241216121500 +0000" channel="TV2000">
+    <title lang="it">L'ora solare</title>
+    <desc lang="it">Storie di chi ha scelto di non arrendersi e si affida alla speranza: vicende difficili in famiglia e in amore, atti di fede, di impegno civile e sociale, di fratellanza. Una occasione di conoscenza e confronto.</desc>
+    <credits>
+      <director>Alessandro Tresa</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16098713bdh8ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216121500 +0000" stop="20241216140000 +0000" channel="TV2000">
+    <title lang="it">Marina</title>
+    <desc lang="it">La storia d'amore tra Alex, giovane avvocato, e Marina, aspirante stilista, ostacolata dal rancore che divide le rispettive famiglie.</desc>
+    <credits>
+      <director>Lito De Filippis</director>
+      <actor role="Alex Alonso">Ricardo Darín</actor>
+      <actor role="Marina Roldán">Grecia Colmenares</actor>
+      <actor role="Andrés">Luis Luque</actor>
+      <actor role="Vicente">Enrique Liporace</actor>
+      <actor role="Beatriz">Esther Goris</actor>
+      <actor role="Brenda">Victoria Carreras</actor>
+      <actor>Gilda Lousek</actor>
+      <actor>Juan Tenuta</actor>
+      <actor>Marisa Carreras</actor>
+      <actor>Daniel Lago</actor>
+    </credits>
+    <date>1989</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28343442ih8aa_Iconic_W660.webp" />
+    <country lang="it">AR</country>
+  </programme>
+  <programme start="20241216140000 +0000" stop="20241216141500 +0000" channel="TV2000">
+    <title lang="it">Coroncina alla Divina Misericordia</title>
+    <desc lang="it">Seguiamo insieme la recita della preghiera devozionale, ideata nel 1935 da suor Faustina Kowalska. I versi sono ispirati dalla visione di un angelo di cui la santa fu testimone durante la sua vita.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15466290bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216141500 +0000" stop="20241216145500 +0000" channel="TV2000">
+    <title lang="it">Siamo noi</title>
+    <desc lang="it">Un programma dedicato all'Italia che non si arrende, che crede nelle relazioni, promuove la solidarietà, crea soluzioni, condivide conoscenze e costruisce angoli di futuro.</desc>
+    <credits>
+      <director>Alessandro Tresa</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12293529bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216145500 +0000" stop="20241216163000 +0000" channel="TV2000">
+    <title lang="it">Marina</title>
+    <desc lang="it">La storia d'amore tra Alex, giovane avvocato, e Marina, aspirante stilista, ostacolata dal rancore che divide le rispettive famiglie.</desc>
+    <credits>
+      <director>Lito De Filippis</director>
+      <actor role="Alex Alonso">Ricardo Darín</actor>
+      <actor role="Marina Roldán">Grecia Colmenares</actor>
+      <actor role="Andrés">Luis Luque</actor>
+      <actor role="Vicente">Enrique Liporace</actor>
+      <actor role="Beatriz">Esther Goris</actor>
+      <actor role="Brenda">Victoria Carreras</actor>
+      <actor>Gilda Lousek</actor>
+      <actor>Juan Tenuta</actor>
+      <actor>Marisa Carreras</actor>
+      <actor>Daniel Lago</actor>
+    </credits>
+    <date>1989</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28343442ih8aa_Iconic_W660.webp" />
+    <country lang="it">AR</country>
+  </programme>
+  <programme start="20241216163000 +0000" stop="20241216165500 +0000" channel="TV2000">
+    <title lang="it">Il diario di Papa Francesco</title>
+    <desc lang="it">Gli impegni e le iniziative del Santo Padre: udienze, documenti, incontri, discorsi, omelie e gesti. Seguiamolo passo dopo passo, con inviati, servizi, interviste e dirette.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10879051bdh10af_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216165500 +0000" stop="20241216172500 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216172500 +0000" stop="20241216180000 +0000" channel="TV2000">
+    <title lang="it">TG 2000</title>
+    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216180000 +0000" stop="20241216183000 +0000" channel="TV2000">
+    <title lang="it">Santa Messa</title>
+    <desc lang="it">In diretta dalla Basilica di San Pietro in Vaticano, la Santa Messa celebrata dal Sua Santità, Papa Francesco.</desc>
+    <date>2012</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p481891ih10ad_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216183000 +0000" stop="20241216190000 +0000" channel="TV2000">
+    <title lang="it">In cammino</title>
+    <desc lang="it">Attraverso temi e ospiti diversi, si racconta il cammino della Chiesa verso il Sinodo, istituzione permanente del Collegio episcopale della Chiesa cattolica, fondato da Papa Paolo VI il 15 settembre 1965.</desc>
+    <credits>
+      <director>Cesare Miceli</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20726748bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216190000 +0000" stop="20241216194500 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216194500 +0000" stop="20241216201500 +0000" channel="TV2000">
+    <title lang="it">TG 2000</title>
+    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216201500 +0000" stop="20241216215500 +0000" channel="TV2000">
+    <title lang="it">Papa Francesco: Un uomo di parola</title>
+    <desc lang="it">Papa Francesco risponde alle domande provenienti dal mondo globalizzato di oggi, esprimendo profonda preoccupazione per i poveri e le disuguaglianze sociali che minano la pace.</desc>
+    <credits>
+      <director>Wim Wenders</director>
+      <actor role="Francesco d'Assisi">Ignazio Oliva</actor>
+      <actor role="Friar">Daniele De Angelis</actor>
+      <actor>Carlo Falconetti</actor>
+    </credits>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15175973ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <country lang="it">VA</country>
+    <country lang="it">IT</country>
+    <country lang="it">DE</country>
+    <country lang="it">FR</country>
+  </programme>
+  <programme start="20241216215500 +0000" stop="20241216223000 +0000" channel="TV2000">
+    <title lang="it">Indagine ai confini del sacro</title>
+    <desc lang="it">Addentriamoci insieme nel misterioso e segreto mondo delle sette e dell'occultismo, per scoprirne tutti i dettagli e le curiosità.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11250781bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216223000 +0000" stop="20241216225500 +0000" channel="TV2000">
+    <title lang="it">La compieta, preghiera della sera</title>
+    <desc lang="it">Le monache agostiniane del convento dei Santi Quattro Coronati in Roma recitano la compieta, preghiera della sera che comprende un salmo, una breve lettura e il cantico di Zaccaria.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13456429bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20241216225500 +0000" stop="20241216232000 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <sub-title lang="it">Dalla basilica papale di Santa Maria Maggiore in Roma</sub-title>
+    <desc lang="it">Dalla cappella della 'Salus Populi Romani', la preghiera dei misteri da parte del clero locale.</desc>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241216232000 +0000" stop="20241217001500 +0000" channel="TV2000">
+    <title lang="it">L'ora solare</title>
+    <desc lang="it">Storie di chi ha scelto di non arrendersi e si affida alla speranza: vicende difficili in famiglia e in amore, atti di fede, di impegno civile e sociale, di fratellanza. Una occasione di conoscenza e confronto.</desc>
+    <credits>
+      <director>Alessandro Tresa</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16098713bdh8ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217001500 +0000" stop="20241217005500 +0000" channel="TV2000">
+    <title lang="it">Siamo noi</title>
+    <desc lang="it">Un programma dedicato all'Italia che non si arrende, che crede nelle relazioni, promuove la solidarietà, crea soluzioni, condivide conoscenze e costruisce angoli di futuro.</desc>
+    <credits>
+      <director>Alessandro Tresa</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12293529bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217005500 +0000" stop="20241217011500 +0000" channel="TV2000">
+    <title lang="it">In cammino</title>
+    <desc lang="it">Attraverso temi e ospiti diversi, si racconta il cammino della Chiesa verso il Sinodo, istituzione permanente del Collegio episcopale della Chiesa cattolica, fondato da Papa Paolo VI il 15 settembre 1965.</desc>
+    <credits>
+      <director>Cesare Miceli</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20726748bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217011500 +0000" stop="20241217020500 +0000" channel="TV2000">
+    <title lang="it">Quel che bolle in pentola</title>
+    <desc lang="it">Cuciniamo insieme delle seppie con lenticchie, delle tigelle e una gustosa pinza.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28338413bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217020500 +0000" stop="20241217024000 +0000" channel="TV2000">
+    <title lang="it">I Santi</title>
+    <sub-title lang="it">Santa Teresina del bambin Gesù di Lisieux</sub-title>
+    <desc lang="it">Suor Teresa di Gesù Bambino e del Volto Santo, detta di Lisieux, fu beatificata il 29 aprile 1923 da papa Pio XI, e proclamata santa dallo stesso papa il 17 maggio 1925.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17888880bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+  </programme>
+  <programme start="20241217024000 +0000" stop="20241217025500 +0000" channel="TV2000">
+    <title lang="it">Documentario</title>
+    <desc lang="it">Selezione di documentari proposti dalla rete e dedicati a temi culturali, sociali, storici, artistici e naturalistici. Il meglio della produzione nazionale e internazionale in ambito divulgativo.</desc>
+    <date>2007</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p654729ih10ad_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20241217025500 +0000" stop="20241217034000 +0000" channel="TV2000">
+    <title lang="it">Il mio medico</title>
+    <desc lang="it">Programma di informazione medica a servizio dei cittadini pensato per diffondere una cultura della salute basata sulla prevenzione, attraverso un linguaggio accessibile e l'ascolto del proprio corpo.</desc>
+    <credits>
+      <director>Fabrizio Pieracci Galante</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11216799bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217034000 +0000" stop="20241217035000 +0000" channel="TV2000">
+    <title lang="it">Vediamoci chiaro</title>
+    <desc lang="it">Scopriamo insieme tutti i consigli e le opinioni su come tutelare i cittadini, e alcuni suggerimenti e soluzioni ai piccoli e grandi problemi delle famiglie.</desc>
+    <credits>
+      <director>Paolo Ferrazza</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20133951bdh10ad_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217035000 +0000" stop="20241217040000 +0000" channel="TV2000">
+    <title lang="it">Borghi d'Italia</title>
+    <desc lang="it">Un viaggio sul territorio con lo sguardo rivolto alle persone, all'ambiente, al paesaggio al folklore. I borghi italiani visti come comunità e traino semplice, ma forte, di un intero territorio; il tutto dal vivo.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567814ih8ab_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217040000 +0000" stop="20241217044000 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217044000 +0000" stop="20241217050000 +0000" channel="TV2000">
+    <title lang="it">In cammino</title>
+    <desc lang="it">Attraverso temi e ospiti diversi, si racconta il cammino della Chiesa verso il Sinodo, istituzione permanente del Collegio episcopale della Chiesa cattolica, fondato da Papa Paolo VI il 15 settembre 1965.</desc>
+    <credits>
+      <director>Cesare Miceli</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20726748bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217050000 +0000" stop="20241217054500 +0000" channel="TV2000">
+    <title lang="it">L'ora solare</title>
+    <desc lang="it">Storie di chi ha scelto di non arrendersi e si affida alla speranza: vicende difficili in famiglia e in amore, atti di fede, di impegno civile e sociale, di fratellanza. Una occasione di conoscenza e confronto.</desc>
+    <credits>
+      <director>Alessandro Tresa</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16098713bdh8ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217054500 +0000" stop="20241217060000 +0000" channel="TV2000">
+    <title lang="it">Preghiera del mattino</title>
+    <desc lang="it">Un momento collettivo di riflessione e spiritualità, che va dal Credo al Padre Nostro.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26023493ih8aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217060000 +0000" stop="20241217062500 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217062500 +0000" stop="20241217072500 +0000" channel="TV2000">
+    <title lang="it">Di buon mattino</title>
+    <desc lang="it">I due conduttori ci parlano di attualità, economia, costume, spettacolo, musica, cucina, curiosità, religione e feste popolari. In studio, insieme a loro, sono presenti anche ospiti ed esperti per discutere dei temi più vari.</desc>
+    <credits>
+      <director>Paolo Ferrazza</director>
+      <director>Fabrizio Pieracci</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20623902bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217072500 +0000" stop="20241217073000 +0000" channel="TV2000">
+    <title lang="it">TG 2000 Flash</title>
+    <desc lang="it">Un'edizione rapida del telegiornale, per gli aggiornamenti sulle informazioni più importanti in materia di cronaca, politica, cultura, società e sport, a cura della redazione giornalistica della rete.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26044940ih11aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217073000 +0000" stop="20241217081000 +0000" channel="TV2000">
+    <title lang="it">Santa Messa</title>
+    <desc lang="it">In diretta dalla Basilica di San Pietro in Vaticano, la Santa Messa celebrata dal Sua Santità, Papa Francesco.</desc>
+    <date>2012</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p481891ih10ad_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217081000 +0000" stop="20241217084500 +0000" channel="TV2000">
+    <title lang="it">Di buon mattino</title>
+    <desc lang="it">I due conduttori ci parlano di attualità, economia, costume, spettacolo, musica, cucina, curiosità, religione e feste popolari. In studio, insieme a loro, sono presenti anche ospiti ed esperti per discutere dei temi più vari.</desc>
+    <credits>
+      <director>Paolo Ferrazza</director>
+      <director>Fabrizio Pieracci</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20623902bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217084500 +0000" stop="20241217093000 +0000" channel="TV2000">
+    <title lang="it">Il mio medico</title>
+    <desc lang="it">Programma di informazione medica a servizio dei cittadini pensato per diffondere una cultura della salute basata sulla prevenzione, attraverso un linguaggio accessibile e l'ascolto del proprio corpo.</desc>
+    <credits>
+      <director>Fabrizio Pieracci Galante</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11216799bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217093000 +0000" stop="20241217100000 +0000" channel="TV2000">
+    <title lang="it">Vediamoci chiaro</title>
+    <desc lang="it">Scopriamo insieme tutti i consigli e le opinioni su come tutelare i cittadini, e alcuni suggerimenti e soluzioni ai piccoli e grandi problemi delle famiglie.</desc>
+    <credits>
+      <director>Paolo Ferrazza</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20133951bdh10ad_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217100000 +0000" stop="20241217105500 +0000" channel="TV2000">
+    <title lang="it">Quel che bolle in pentola</title>
+    <desc lang="it">Cuciniamo chitarrina al limone con baccalà e asparagi su crema di bufala e degli stricchetti.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28338413bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217105500 +0000" stop="20241217110000 +0000" channel="TV2000">
+    <title lang="it">Angelus</title>
+    <desc lang="it">Il pontefice celebra il rito per i fedeli di tutto il mondo cristiano cattolico.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567918bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">VA</country>
+  </programme>
+  <programme start="20241217110000 +0000" stop="20241217112000 +0000" channel="TV2000">
+    <title lang="it">TG 2000</title>
+    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217112000 +0000" stop="20241217121500 +0000" channel="TV2000">
+    <title lang="it">L'ora solare</title>
+    <desc lang="it">Storie di chi ha scelto di non arrendersi e si affida alla speranza: vicende difficili in famiglia e in amore, atti di fede, di impegno civile e sociale, di fratellanza. Una occasione di conoscenza e confronto.</desc>
+    <credits>
+      <director>Alessandro Tresa</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16098713bdh8ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217121500 +0000" stop="20241217140000 +0000" channel="TV2000">
+    <title lang="it">Marina</title>
+    <desc lang="it">La storia d'amore tra Alex, giovane avvocato, e Marina, aspirante stilista, ostacolata dal rancore che divide le rispettive famiglie.</desc>
+    <credits>
+      <director>Lito De Filippis</director>
+      <actor role="Alex Alonso">Ricardo Darín</actor>
+      <actor role="Marina Roldán">Grecia Colmenares</actor>
+      <actor role="Andrés">Luis Luque</actor>
+      <actor role="Vicente">Enrique Liporace</actor>
+      <actor role="Beatriz">Esther Goris</actor>
+      <actor role="Brenda">Victoria Carreras</actor>
+      <actor>Gilda Lousek</actor>
+      <actor>Juan Tenuta</actor>
+      <actor>Marisa Carreras</actor>
+      <actor>Daniel Lago</actor>
+    </credits>
+    <date>1989</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28343442ih8aa_Iconic_W660.webp" />
+    <country lang="it">AR</country>
+  </programme>
+  <programme start="20241217140000 +0000" stop="20241217141500 +0000" channel="TV2000">
+    <title lang="it">Coroncina alla Divina Misericordia</title>
+    <desc lang="it">Seguiamo insieme la recita della preghiera devozionale, ideata nel 1935 da suor Faustina Kowalska. I versi sono ispirati dalla visione di un angelo di cui la santa fu testimone durante la sua vita.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15466290bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217141500 +0000" stop="20241217145500 +0000" channel="TV2000">
+    <title lang="it">Siamo noi</title>
+    <desc lang="it">Un programma dedicato all'Italia che non si arrende, che crede nelle relazioni, promuove la solidarietà, crea soluzioni, condivide conoscenze e costruisce angoli di futuro.</desc>
+    <credits>
+      <director>Alessandro Tresa</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12293529bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217145500 +0000" stop="20241217163000 +0000" channel="TV2000">
+    <title lang="it">Marina</title>
+    <desc lang="it">La storia d'amore tra Alex, giovane avvocato, e Marina, aspirante stilista, ostacolata dal rancore che divide le rispettive famiglie.</desc>
+    <credits>
+      <director>Lito De Filippis</director>
+      <actor role="Alex Alonso">Ricardo Darín</actor>
+      <actor role="Marina Roldán">Grecia Colmenares</actor>
+      <actor role="Andrés">Luis Luque</actor>
+      <actor role="Vicente">Enrique Liporace</actor>
+      <actor role="Beatriz">Esther Goris</actor>
+      <actor role="Brenda">Victoria Carreras</actor>
+      <actor>Gilda Lousek</actor>
+      <actor>Juan Tenuta</actor>
+      <actor>Marisa Carreras</actor>
+      <actor>Daniel Lago</actor>
+    </credits>
+    <date>1989</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28343442ih8aa_Iconic_W660.webp" />
+    <country lang="it">AR</country>
+  </programme>
+  <programme start="20241217163000 +0000" stop="20241217165500 +0000" channel="TV2000">
+    <title lang="it">Il diario di Papa Francesco</title>
+    <desc lang="it">Gli impegni e le iniziative del Santo Padre: udienze, documenti, incontri, discorsi, omelie e gesti. Seguiamolo passo dopo passo, con inviati, servizi, interviste e dirette.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10879051bdh10af_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217165500 +0000" stop="20241217172500 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217172500 +0000" stop="20241217180000 +0000" channel="TV2000">
+    <title lang="it">TG 2000</title>
+    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217180000 +0000" stop="20241217183000 +0000" channel="TV2000">
+    <title lang="it">Santa Messa</title>
+    <desc lang="it">In diretta dalla Basilica di San Pietro in Vaticano, la Santa Messa celebrata dal Sua Santità, Papa Francesco.</desc>
+    <date>2012</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p481891ih10ad_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217183000 +0000" stop="20241217190000 +0000" channel="TV2000">
+    <title lang="it">In cammino</title>
+    <desc lang="it">Attraverso temi e ospiti diversi, si racconta il cammino della Chiesa verso il Sinodo, istituzione permanente del Collegio episcopale della Chiesa cattolica, fondato da Papa Paolo VI il 15 settembre 1965.</desc>
+    <credits>
+      <director>Cesare Miceli</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20726748bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217190000 +0000" stop="20241217194500 +0000" channel="TV2000">
+    <title lang="it">Recita del Rosario</title>
+    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217194500 +0000" stop="20241217200500 +0000" channel="TV2000">
+    <title lang="it">TG 2000</title>
+    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217200500 +0000" stop="20241217212500 +0000" channel="TV2000">
+    <title lang="it">Un amico molto speciale</title>
+    <desc lang="it">Anton incontra un piccolo criminale che si traveste da Babbo Natale e lo convince a fare un giro assieme sulla sua slitta magica.</desc>
+    <credits>
+      <director>Alexandre Coffre</director>
+      <actor role="Le Père Noël">Tahar Rahim</actor>
+      <actor role="Marie">Victor Cabal</actor>
+      <actor role="Le Père Fouettard">Amélie Glenn</actor>
+      <actor role="La mère">Michaël Abiteboul</actor>
+      <actor role="Camille">Annelise Hesme</actor>
+      <actor>Philippe Rebbot</actor>
+      <actor>Jean-François Cayrey</actor>
+      <actor>Djibril Gueye</actor>
+    </credits>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12186264bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">FR</country>
+    <country lang="it">BE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20241217212500 +0000" stop="20241217220500 +0000" channel="TV2000">
+    <title lang="it">Retroscena</title>
+    <desc lang="it">Serie di reportage che vogliono testimoniare la forma e la sostanza del teatro oggi, con le sue espressioni, i suoi mutamenti, i suoi scenari e le sue tendenze.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10879038ih10ae_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20241217220500 +0000" stop="20241217234000 +0000" channel="TV2000">
+    <title lang="it">The House of Us</title>
+    <desc lang="it">La giovane Hana vuole fare riappacificare i genitori, mentre si prende cura di due sorelline appartenenti ad una famiglia del vicinato. Hana comincia a percepire un senso di normalità durante una gita sulla spiaggia.</desc>
+    <credits>
+      <director>Yoon Ga-eun</director>
+      <actor>Nayeon Kim</actor>
+      <actor>Kim Si-ah</actor>
+      <actor>Ye-rim Joo</actor>
+      <actor>Ji-ho Ahn</actor>
+      <actor>Choi Jeong-in</actor>
+      <actor>Lee Ju-won</actor>
+    </credits>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18124249bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">KR</country>
+  </programme>
+  <programme start="20241217234000 +0000" stop="20241218000000 +0000" channel="TV2000">
+    <title lang="it">La compieta, preghiera della sera</title>
+    <desc lang="it">Le monache agostiniane del convento dei Santi Quattro Coronati in Roma recitano la compieta, preghiera della sera che comprende un salmo, una breve lettura e il cantico di Zaccaria.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13456429bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
   <programme start="20241214012000 +0100" stop="20241214012500 +0100" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.</desc>
@@ -2372,1326 +3692,6 @@
   <programme start="20241216220505 +0000" stop="20241216235501 +0000" channel="Lone Star">
     <title lang="en">Heartland</title>
     <desc lang="en">A woman arrives at the property of a reclusive Scottish famer to work as his housekeeper.</desc>
-  </programme>
-  <programme start="20241214001000 +0000" stop="20241214012000 +0000" channel="TV2000">
-    <title lang="en">Di buon mattino</title>
-  </programme>
-  <programme start="20241214012000 +0000" stop="20241214020000 +0000" channel="TV2000">
-    <title lang="en">Caro Gesù</title>
-  </programme>
-  <programme start="20241214020000 +0000" stop="20241214025500 +0000" channel="TV2000">
-    <title lang="en">Quel che bolle in pentola</title>
-    <desc lang="en">Ecco una fregola sarda con ricci e bottarga, polenta e ciambella della nonna.</desc>
-  </programme>
-  <programme start="20241214025500 +0000" stop="20241214030000 +0000" channel="TV2000">
-    <title lang="en">Angelus</title>
-  </programme>
-  <programme start="20241214030000 +0000" stop="20241214032000 +0000" channel="TV2000">
-    <title lang="en">TG 2000</title>
-    <desc lang="en">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.</desc>
-  </programme>
-  <programme start="20241214032000 +0000" stop="20241214035000 +0000" channel="TV2000">
-    <title lang="en">Borghi d'Italia</title>
-    <sub-title lang="en">Montaquila</sub-title>
-    <desc lang="en">Scopriamo il comune di Montaquila, in Molise. Nel corso del programma intervengono il sindaco, il parroco e gli altri protagonisti della vita cittadina, che descrivono il loro paese attraverso i borghi, le chiese e lo storico fiume Volturno.</desc>
-  </programme>
-  <programme start="20241214035500 +0000" stop="20241214040000 +0000" channel="TV2000">
-    <title lang="it">Borghi d'Italia</title>
-    <desc lang="it">Un viaggio sul territorio con lo sguardo rivolto alle persone, all'ambiente, al paesaggio al folklore. I borghi italiani visti come comunità e traino semplice, ma forte, di un intero territorio; il tutto dal vivo.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567814ih8ab_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214040000 +0000" stop="20241214042500 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214042500 +0000" stop="20241214044000 +0000" channel="TV2000">
-    <title lang="it">Firmato da te</title>
-    <desc lang="it">I progetti portati avanti in concreto con parte dell'Otto per mille destinato alla Chiesa cattolica.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22717742eh10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E19</episode-num>
-  </programme>
-  <programme start="20241214044000 +0000" stop="20241214053000 +0000" channel="TV2000">
-    <title lang="it">Quel che bolle in pentola</title>
-    <desc lang="it">Prepariamo la pasta alla carrettiera, una torta fredda alle albicocche e dei fagottini di mela.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28338413bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214053000 +0000" stop="20241214054000 +0000" channel="TV2000">
-    <title lang="it">Preghiera del mattino</title>
-    <desc lang="it">Un momento collettivo di riflessione e spiritualità, che va dal Credo al Padre Nostro.(c)</desc>
-    <date>2023</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26023493ih8aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214054000 +0000" stop="20241214060500 +0000" channel="TV2000">
-    <title lang="it">Effetto notte</title>
-    <desc lang="it">Il cinema è un flusso, si alimenta delle sue storie, dei suoi volti, ieri come oggi. Effetto notte torna in versione rinnovata, e guida gli spettatori in un originale ma elementare percorso attraverso il cinema di ieri, di oggi e di domani.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567609ih8aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214060500 +0000" stop="20241214063500 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214063500 +0000" stop="20241214070000 +0000" channel="TV2000">
-    <title lang="it">Terra Santa News</title>
-    <desc lang="it">Il Franciscan Media Center propone tutte le settimane, da Gerusalemme, un notiziario che racconta la Terra Santa tra fede, storia, e attualità per svelare tutta la ricchezza di questa terra di Dio, così spesso dimenticata.(c)</desc>
-    <date>2010</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8207056ih10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214070000 +0000" stop="20241214072500 +0000" channel="TV2000">
-    <title lang="it">Indagine ai confini del sacro</title>
-    <desc lang="it">Addentriamoci insieme nel misterioso e segreto mondo delle sette e dell'occultismo, per scoprirne tutti i dettagli e le curiosità.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11250781bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214072500 +0000" stop="20241214073000 +0000" channel="TV2000">
-    <title lang="it">TG 2000 Flash</title>
-    <desc lang="it">Un'edizione rapida del telegiornale, per gli aggiornamenti sulle informazioni più importanti in materia di cronaca, politica, cultura, società e sport, a cura della redazione giornalistica della rete.(c)</desc>
-    <date>2021</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26044940ih11aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214073000 +0000" stop="20241214081000 +0000" channel="TV2000">
-    <title lang="it">Santa Messa</title>
-    <desc lang="it">In diretta dalla Basilica di San Pietro in Vaticano, la Santa Messa celebrata dal Sua Santità, Papa Francesco.(c)</desc>
-    <date>2012</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p481891ih10ad_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214081000 +0000" stop="20241214092000 +0000" channel="TV2000">
-    <title lang="it">Di buon mattino</title>
-    <desc lang="it">I due conduttori ci parlano di attualità, economia, costume, spettacolo, musica, cucina, curiosità, religione e feste popolari. In studio, insieme a loro, sono presenti anche ospiti ed esperti per discutere dei temi più vari.(c)</desc>
-    <credits>
-      <director>Paolo Ferrazza</director>
-      <director>Fabrizio Pieracci</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20623902bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214092000 +0000" stop="20241214100000 +0000" channel="TV2000">
-    <title lang="it">Caro Gesù</title>
-    <desc lang="it">Una striscia quotidiana, dedicata ai più piccoli che seguono un percorso di fede. La catechista in studio risponde alle domande dei bambini in materia di religione.(c)</desc>
-    <credits>
-      <director>Antonella Becciu</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18119732bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214100000 +0000" stop="20241214105500 +0000" channel="TV2000">
-    <title lang="it">Quel che bolle in pentola</title>
-    <desc lang="it">Ecco una fregola sarda con ricci e bottarga, polenta e ciambella della nonna.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28338413bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214105500 +0000" stop="20241214110000 +0000" channel="TV2000">
-    <title lang="it">Angelus</title>
-    <desc lang="it">Il pontefice celebra il rito per i fedeli di tutto il mondo cristiano cattolico.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567918bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">VA</country>
-  </programme>
-  <programme start="20241214110000 +0000" stop="20241214112000 +0000" channel="TV2000">
-    <title lang="it">TG 2000</title>
-    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214112000 +0000" stop="20241214115000 +0000" channel="TV2000">
-    <title lang="it">Borghi d'Italia</title>
-    <sub-title lang="it">Montaquila</sub-title>
-    <desc lang="it">Scopriamo il comune di Montaquila, in Molise. Nel corso del programma intervengono il sindaco, il parroco e gli altri protagonisti della vita cittadina, che descrivono il loro paese attraverso i borghi, le chiese e lo storico fiume Volturno.(c)</desc>
-    <date>2023</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26334145eh10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S15 E12</episode-num>
-  </programme>
-  <programme start="20241214115000 +0000" stop="20241214132500 +0000" channel="TV2000">
-    <title lang="it">Marina</title>
-    <desc lang="it">La storia d'amore tra Alex, giovane avvocato, e Marina, aspirante stilista, ostacolata dal rancore che divide le rispettive famiglie.(c)</desc>
-    <credits>
-      <director>Lito De Filippis</director>
-      <actor role="Alex Alonso">Ricardo Darín</actor>
-      <actor role="Marina Roldán">Grecia Colmenares</actor>
-      <actor role="Andrés">Luis Luque</actor>
-      <actor role="Vicente">Enrique Liporace</actor>
-      <actor role="Beatriz">Esther Goris</actor>
-      <actor role="Brenda">Victoria Carreras</actor>
-      <actor>Gilda Lousek</actor>
-      <actor>Juan Tenuta</actor>
-      <actor>Marisa Carreras</actor>
-      <actor>Daniel Lago</actor>
-    </credits>
-    <date>1989</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28343442ih8aa_Iconic_W660.webp" />
-    <country lang="it">AR</country>
-  </programme>
-  <programme start="20241214132500 +0000" stop="20241214140000 +0000" channel="TV2000">
-    <title lang="it">Sulla strada</title>
-    <desc lang="it">Sulle strade del mondo e della vita accompagnati dalla parola del Vangelo. L'analisi del Vangelo è illustrata da immagini animate che ci riportano la storia e l'ambiente in cui Gesù viveva.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11413266bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214140000 +0000" stop="20241214141500 +0000" channel="TV2000">
-    <title lang="it">Coroncina alla Divina Misericordia</title>
-    <desc lang="it">Seguiamo insieme la recita della preghiera devozionale, ideata nel 1935 da suor Faustina Kowalska. I versi sono ispirati dalla visione di un angelo di cui la santa fu testimone durante la sua vita.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15466290bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214141500 +0000" stop="20241214150000 +0000" channel="TV2000">
-    <title lang="it">Alle porte del Giubileo</title>
-    <desc lang="it">Scopriamo l'attualità dell'Anno Santo e prepariamoci a viverlo in maniera consapevole e spirituale.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28769893ih8aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214150000 +0000" stop="20241214162000 +0000" channel="TV2000">
-    <title lang="it">Marina</title>
-    <desc lang="it">La storia d'amore tra Alex, giovane avvocato, e Marina, aspirante stilista, ostacolata dal rancore che divide le rispettive famiglie.(c)</desc>
-    <credits>
-      <director>Lito De Filippis</director>
-      <actor role="Alex Alonso">Ricardo Darín</actor>
-      <actor role="Marina Roldán">Grecia Colmenares</actor>
-      <actor role="Andrés">Luis Luque</actor>
-      <actor role="Vicente">Enrique Liporace</actor>
-      <actor role="Beatriz">Esther Goris</actor>
-      <actor role="Brenda">Victoria Carreras</actor>
-      <actor>Gilda Lousek</actor>
-      <actor>Juan Tenuta</actor>
-      <actor>Marisa Carreras</actor>
-      <actor>Daniel Lago</actor>
-    </credits>
-    <date>1989</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28343442ih8aa_Iconic_W660.webp" />
-    <country lang="it">AR</country>
-  </programme>
-  <programme start="20241214162000 +0000" stop="20241214165500 +0000" channel="TV2000">
-    <title lang="it">I simboli del sacro</title>
-    <sub-title lang="it">Il giglio</sub-title>
-    <desc lang="it">Il simbolo cristiano del giglio rimanda immediatamente alla purezza, e quindi a Maria. A Firenze, il giglio ne è il simbolo araldico, e si mostra apertamente tra i suoi palazzi e le sue vie, perchè fiorente è l'anima cristiana di questa città.(c)</desc>
-    <credits>
-      <director>Filippo Genovese</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/633/400.422_genre_W660.webp" />
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20241214165500 +0000" stop="20241214172500 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214172500 +0000" stop="20241214180000 +0000" channel="TV2000">
-    <title lang="it">TG 2000</title>
-    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214180000 +0000" stop="20241214190000 +0000" channel="TV2000">
-    <title lang="it">Santa Messa</title>
-    <desc lang="it">In diretta dalla Basilica di San Pietro in Vaticano, la Santa Messa celebrata dal Sua Santità, Papa Francesco.(c)</desc>
-    <date>2012</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p481891ih10ad_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214190000 +0000" stop="20241214194500 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214194500 +0000" stop="20241214200500 +0000" channel="TV2000">
-    <title lang="it">TG 2000</title>
-    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241214200500 +0000" stop="20241214220000 +0000" channel="TV2000">
-    <title lang="it">Mr. Magorium e la bottega delle meraviglie</title>
-    <desc lang="it">Quando l'eccentrico proprietario di un magico negozio di giocattoli decide di lasciare spazio al suo assistente, le cose cambiano.(c)</desc>
-    <credits>
-      <director>Zach Helm</director>
-      <actor role="Molly Mahoney">Natalie Portman</actor>
-      <actor role="Mr. Magorium">Dustin Hoffman</actor>
-      <actor role="Henry Weston">Jason Bateman</actor>
-      <actor role="Eric Applebaum">Zach Mills</actor>
-      <actor>Madalena Brancatella</actor>
-      <actor>Paula Boudreau</actor>
-      <actor>Mike Realba</actor>
-      <actor>Marcia Bennett</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p167935bdh10ac_Backdrop_W660.webp" />
-    <country lang="it">US</country>
-  </programme>
-  <programme start="20241214220000 +0000" stop="20241214235000 +0000" channel="TV2000">
-    <title lang="it">La passione di Bernadette</title>
-    <desc lang="it">L'undici Febbraio del 1958, la quattordicenne Bernadette Soubirous, assiste alla misteriosa visione di una signora di bianco vestita.(c)</desc>
-    <credits>
-      <director>Jean Delannoy</director>
-      <actor role="Bernadette Soubirous">Sydney Penny</actor>
-      <actor role="Mère Marie-Thérèse Vauzou">Emmanuelle Riva</actor>
-      <actor role="Mgr Dupanloup">Catherine de Seynes</actor>
-      <actor>Malka Ribowska</actor>
-      <actor>Georges Wilson</actor>
-      <actor>Michèle André</actor>
-      <actor>Maurice Jacquemont</actor>
-      <actor>Roland Lesaffre</actor>
-      <actor>Michel Ruhl</actor>
-      <actor>Michèle Simonnet</actor>
-    </credits>
-    <date>1990</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p35028ih10aa_Iconic_W660.webp" />
-    <country lang="it">FR</country>
-  </programme>
-  <programme start="20241214235000 +0000" stop="20241215000500 +0000" channel="TV2000">
-    <title lang="it">La compieta, preghiera della sera</title>
-    <desc lang="it">Le monache agostiniane del convento dei Santi Quattro Coronati in Roma recitano la compieta, preghiera della sera che comprende un salmo, una breve lettura e il cantico di Zaccaria.(c)</desc>
-    <date>2023</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13456429bdh10ac_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S2 E6</episode-num>
-  </programme>
-  <programme start="20241215000500 +0000" stop="20241215004000 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <sub-title lang="it">Dalla basilica papale di Santa Maria Maggiore in Roma</sub-title>
-    <desc lang="it">Dalla cappella della 'Salus Populi Romani', la preghiera dei misteri da parte del clero locale.(c)</desc>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215004000 +0000" stop="20241215010000 +0000" channel="TV2000">
-    <title lang="it">Sulla strada</title>
-    <desc lang="it">Sulle strade del mondo e della vita accompagnati dalla parola del Vangelo. L'analisi del Vangelo è illustrata da immagini animate che ci riportano la storia e l'ambiente in cui Gesù viveva.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11413266bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215010000 +0000" stop="20241215013000 +0000" channel="TV2000">
-    <title lang="it">I Santi</title>
-    <sub-title lang="it">San Riccardo Pampuri</sub-title>
-    <desc lang="it">Riccardo Pampuri è stato un religioso e medico italiano dell'Ordine Ospedaliero di San Giovanni. A novembre del 1989, fu proclamato santo da Papa Giovanni Paolo II.(c)</desc>
-    <date>2018</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17888880bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E12</episode-num>
-  </programme>
-  <programme start="20241215013000 +0000" stop="20241215023000 +0000" channel="TV2000">
-    <title lang="it">Il canto gregoriano</title>
-    <desc lang="it">Il cosiddetto canto gregoriano è stato scelto ai primi del novecento come modello assoluto di musica da chiesa. La monodia liturgica ha, infatti, lunghe tradizioni nella storia del cristianesimo.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13627229ih10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215023000 +0000" stop="20241215025500 +0000" channel="TV2000">
-    <title lang="it">I Santi</title>
-    <sub-title lang="it">San Carlo Borromeo</sub-title>
-    <desc lang="it">Un documentario dedicato a Carlo Borromeo, cardinale e arcivescovo venerato come santo dalla Chiesa cattolica, canonizzato nel 1610 da papa Paolo V a soli 26 anni dalla morte.(c)</desc>
-    <date>2018</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21029616eh10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20241215025500 +0000" stop="20241215030000 +0000" channel="TV2000">
-    <title lang="it">Borghi d'Italia</title>
-    <sub-title lang="it">Vallecorsa</sub-title>
-    <desc lang="it">Casa natale Santa Maria de Mattias, Muretti a secco patrimonio dell' Unesco.(c)</desc>
-    <date>2021</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25018283eh11aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S13 E95</episode-num>
-  </programme>
-  <programme start="20241215030000 +0000" stop="20241215035000 +0000" channel="TV2000">
-    <title lang="it">Quel che bolle in pentola</title>
-    <desc lang="it">Cuciniamo gnocchi rossi all'italiana, spaghetti con le telline e orata al guazzetto.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28338413bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215035000 +0000" stop="20241215040000 +0000" channel="TV2000">
-    <title lang="it">Borghi d'Italia</title>
-    <desc lang="it">Un viaggio sul territorio con lo sguardo rivolto alle persone, all'ambiente, al paesaggio al folklore. I borghi italiani visti come comunità e traino semplice, ma forte, di un intero territorio; il tutto dal vivo.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567814ih8ab_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215040000 +0000" stop="20241215043000 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215043000 +0000" stop="20241215050000 +0000" channel="TV2000">
-    <title lang="it">I Santi</title>
-    <sub-title lang="it">Santa Teresina del bambin Gesù di Lisieux</sub-title>
-    <desc lang="it">Suor Teresa di Gesù Bambino e del Volto Santo, detta di Lisieux, fu beatificata il 29 aprile 1923 da papa Pio XI, e proclamata santa dallo stesso papa il 17 maggio 1925.(c)</desc>
-    <date>2021</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17888880bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E14</episode-num>
-  </programme>
-  <programme start="20241215050000 +0000" stop="20241215051000 +0000" channel="TV2000">
-    <title lang="it">Preghiera del mattino</title>
-    <desc lang="it">Un momento collettivo di riflessione e spiritualità, che va dal Credo al Padre Nostro.(c)</desc>
-    <date>2023</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26023493ih8aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215051000 +0000" stop="20241215053000 +0000" channel="TV2000">
-    <title lang="it">Terra Santa News</title>
-    <desc lang="it">Il Franciscan Media Center propone tutte le settimane, da Gerusalemme, un notiziario che racconta la Terra Santa tra fede, storia, e attualità per svelare tutta la ricchezza di questa terra di Dio, così spesso dimenticata.(c)</desc>
-    <date>2010</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8207056ih10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215053000 +0000" stop="20241215060000 +0000" channel="TV2000">
-    <title lang="it">Borghi d'Italia</title>
-    <sub-title lang="it">Montaquila</sub-title>
-    <desc lang="it">Scopriamo il comune di Montaquila, in Molise. Nel corso del programma intervengono il sindaco, il parroco e gli altri protagonisti della vita cittadina, che descrivono il loro paese attraverso i borghi, le chiese e lo storico fiume Volturno.(c)</desc>
-    <date>2023</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26334145eh10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S15 E12</episode-num>
-  </programme>
-  <programme start="20241215060000 +0000" stop="20241215063000 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215063000 +0000" stop="20241215070500 +0000" channel="TV2000">
-    <title lang="it">Retroscena</title>
-    <desc lang="it">Serie di reportage che vogliono testimoniare la forma e la sostanza del teatro oggi, con le sue espressioni, i suoi mutamenti, i suoi scenari e le sue tendenze.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10879038ih10ae_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215070500 +0000" stop="20241215073000 +0000" channel="TV2000">
-    <title lang="it">Sulla strada</title>
-    <desc lang="it">Sulle strade del mondo e della vita accompagnati dalla parola del Vangelo. L'analisi del Vangelo è illustrata da immagini animate che ci riportano la storia e l'ambiente in cui Gesù viveva.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11413266bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215073000 +0000" stop="20241215082000 +0000" channel="TV2000">
-    <title lang="it">Santa Messa</title>
-    <desc lang="it">In diretta dalla Basilica di San Pietro in Vaticano, la Santa Messa celebrata dal Sua Santità, Papa Francesco.(c)</desc>
-    <date>2012</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p481891ih10ad_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215082000 +0000" stop="20241215085000 +0000" channel="TV2000">
-    <title lang="it">Buongiorno Professore</title>
-    <desc lang="it">Le lezioni del professor Andrea Monda,insegnante di religione cattolica presso il liceo classico Pilo Albertelli nel centro di Roma.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12218417ih10ab_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215085000 +0000" stop="20241215091500 +0000" channel="TV2000">
-    <title lang="it">Il diario di Papa Francesco</title>
-    <desc lang="it">Gli impegni e le iniziative del Santo Padre: udienze, documenti, incontri, discorsi, omelie e gesti. Seguiamolo passo dopo passo, con inviati, servizi, interviste e dirette.(c)</desc>
-    <date>2023</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10879051bdh10af_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215091500 +0000" stop="20241215094500 +0000" channel="TV2000">
-    <title lang="it">Viaggio Apostolico del Santo Padre ad Ajaccio</title>
-    <sub-title lang="it">Sessione conclusiva del Congresso</sub-title>
-    <desc lang="it">Dal Palais des Congrès et d'Exposition d'Ajaccio, Sua Santità Papa Francesco I presiede la sessione conclusiva del congresso "La Religiosité Populaire en Méditerranée", in cui tiene un discorso.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28884273bdh8aa_Backdrop_W660.webp" />
-    <country lang="it">VA</country>
-  </programme>
-  <programme start="20241215094500 +0000" stop="20241215102000 +0000" channel="TV2000">
-    <title lang="it">Il diario di Papa Francesco</title>
-    <desc lang="it">Gli impegni e le iniziative del Santo Padre: udienze, documenti, incontri, discorsi, omelie e gesti. Seguiamolo passo dopo passo, con inviati, servizi, interviste e dirette.(c)</desc>
-    <date>2023</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10879051bdh10af_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215102000 +0000" stop="20241215103500 +0000" channel="TV2000">
-    <title lang="it">Viaggio Apostolico del Santo Padre ad Ajaccio</title>
-    <sub-title lang="it">Angelus</sub-title>
-    <desc lang="it">Sua Santità Papa Francesco I recita la preghiera dell'Angelus con i vescovi, i sacerdoti, i diaconi, i consacrati e le consacrate e i seminaristi nella Cattedrale di Santa Maria Assunta.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28884273bdh8aa_Backdrop_W660.webp" />
-    <country lang="it">VA</country>
-  </programme>
-  <programme start="20241215103500 +0000" stop="20241215111500 +0000" channel="TV2000">
-    <title lang="it">Il diario di Papa Francesco</title>
-    <desc lang="it">Gli impegni e le iniziative del Santo Padre: udienze, documenti, incontri, discorsi, omelie e gesti. Seguiamolo passo dopo passo, con inviati, servizi, interviste e dirette.(c)</desc>
-    <date>2023</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10879051bdh10af_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215111500 +0000" stop="20241215115000 +0000" channel="TV2000">
-    <title lang="it">Borghi d'Italia</title>
-    <sub-title lang="it">Longarone</sub-title>
-    <desc lang="it">In provincia di Belluno, in un territorio lungo la valle del Piave, si trova Longarone, un comune incluso nel parco nazionale delle Dolomiti Bellunesi, noto per l'immane tragedia che lo ha investito.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567814bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S16 E12</episode-num>
-  </programme>
-  <programme start="20241215115000 +0000" stop="20241215140000 +0000" channel="TV2000">
-    <title lang="it">Mr. Magorium e la bottega delle meraviglie</title>
-    <desc lang="it">Quando l'eccentrico proprietario di un magico negozio di giocattoli decide di lasciare spazio al suo assistente, le cose cambiano.(c)</desc>
-    <credits>
-      <director>Zach Helm</director>
-      <actor role="Molly Mahoney">Natalie Portman</actor>
-      <actor role="Mr. Magorium">Dustin Hoffman</actor>
-      <actor role="Henry Weston">Jason Bateman</actor>
-      <actor role="Eric Applebaum">Zach Mills</actor>
-      <actor>Madalena Brancatella</actor>
-      <actor>Paula Boudreau</actor>
-      <actor>Mike Realba</actor>
-      <actor>Marcia Bennett</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p167935bdh10ac_Backdrop_W660.webp" />
-    <country lang="it">US</country>
-  </programme>
-  <programme start="20241215140000 +0000" stop="20241215141500 +0000" channel="TV2000">
-    <title lang="it">Coroncina alla Divina Misericordia</title>
-    <desc lang="it">Seguiamo insieme la recita della preghiera devozionale, ideata nel 1935 da suor Faustina Kowalska. I versi sono ispirati dalla visione di un angelo di cui la santa fu testimone durante la sua vita.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15466290bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215141500 +0000" stop="20241215143000 +0000" channel="TV2000">
-    <title lang="it">Il diario di Papa Francesco</title>
-    <desc lang="it">Gli impegni e le iniziative del Santo Padre: udienze, documenti, incontri, discorsi, omelie e gesti. Seguiamolo passo dopo passo, con inviati, servizi, interviste e dirette.(c)</desc>
-    <date>2023</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10879051bdh10af_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215143000 +0000" stop="20241215165500 +0000" channel="TV2000">
-    <title lang="it">Viaggio Apostolico del Santo Padre ad Ajaccio</title>
-    <sub-title lang="it">Santa Messa</sub-title>
-    <desc lang="it">Dalla Place d'Austerlitz, la Santa Messa celebrata da Sua Santità Papa Francesco I.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28884273bdh8aa_Backdrop_W660.webp" />
-    <country lang="it">VA</country>
-  </programme>
-  <programme start="20241215165500 +0000" stop="20241215172500 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215172500 +0000" stop="20241215180500 +0000" channel="TV2000">
-    <title lang="it">TG 2000</title>
-    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215180500 +0000" stop="20241215190500 +0000" channel="TV2000">
-    <title lang="it">Santa Messa</title>
-    <desc lang="it">In diretta dalla Basilica di San Pietro in Vaticano, la Santa Messa celebrata dal Sua Santità, Papa Francesco.(c)</desc>
-    <date>2012</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p481891ih10ad_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215190500 +0000" stop="20241215194500 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215194500 +0000" stop="20241215201000 +0000" channel="TV2000">
-    <title lang="it">TG 2000</title>
-    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215201000 +0000" stop="20241215203500 +0000" channel="TV2000">
-    <title lang="it">Soul</title>
-    <desc lang="it">In ogni puntata un personaggio pubblico si racconta, aprendo una finestra sulla propria anima e sulla propria umanità. Lo fa parlandoci delle proprie radici, della propria storia, del rapporto con la religione e non solo.(c)</desc>
-    <credits>
-      <director>Cecilia Pronti</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11349854bdh10as_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241215203500 +0000" stop="20241215223000 +0000" channel="TV2000">
-    <title lang="it">The Water Diviner</title>
-    <desc lang="it">Quattro anni dopo la Battaglia di Gallipoli, l'agricoltore australiano Joshua Connor si reca in Turchia alla ricerca dei tre figli dispersi in guerra. Una volta giunto a Istanbul inizia un viaggio attraverso il paese per scoprire la verità.(c)</desc>
-    <credits>
-      <director>Russell Crowe</director>
-      <actor role="Joshua Connor">Russell Crowe</actor>
-      <actor role="Ayshe">Olga Kurylenko</actor>
-      <actor role="Maggiore Hasan">Yilmaz Erdogan</actor>
-      <actor role="Jemal">Cem Yilmaz</actor>
-      <actor role="Hughes">Jai Courtney</actor>
-      <actor role="Omer">Dylan Georgiades</actor>
-      <actor role="Natalia">Steve Bastoni</actor>
-      <actor role="Fatma">Isabel Lucas</actor>
-      <actor role="Art">Salih Kalyon</actor>
-      <actor role="Edward">Megan Gale</actor>
-    </credits>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11007878bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">AU</country>
-    <country lang="it">TR</country>
-    <country lang="it">US</country>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241215223000 +0000" stop="20241216003000 +0000" channel="TV2000">
-    <title lang="it">Guai con gli angeli</title>
-    <desc lang="it">Le vicende quotidiane di due ragazze adolescenti in un collegio cattolico. Vivaci e irrequiete, ne combinano di tutti i colori. Una delle amiche inizia a diventare una studentessa seria quando la Madre Superiora decide di non espellerla.(c)</desc>
-    <credits>
-      <director>Ida Lupino</director>
-      <actor role="Mother Superior">Rosalind Russell</actor>
-      <actor role="Mary Clancy">Hayley Mills</actor>
-      <actor role="Sister Celestine">June Harding</actor>
-      <actor role="Sister Clarissa">Binnie Barnes</actor>
-      <actor role="Mrs. Phipps">Mary Wickes</actor>
-      <actor role="Sister Constance">Gypsy Rose Lee</actor>
-      <actor>Camilla Sparv</actor>
-      <actor>Bernadette Withers</actor>
-    </credits>
-    <date>1966</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p4632ih10ab_Iconic_W660.webp" />
-    <country lang="it">US</country>
-  </programme>
-  <programme start="20241216003000 +0000" stop="20241216005500 +0000" channel="TV2000">
-    <title lang="it">Effetto notte</title>
-    <desc lang="it">Il cinema è un flusso, si alimenta delle sue storie, dei suoi volti, ieri come oggi. Effetto notte torna in versione rinnovata, e guida gli spettatori in un originale ma elementare percorso attraverso il cinema di ieri, di oggi e di domani.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567609ih8aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216005500 +0000" stop="20241216011000 +0000" channel="TV2000">
-    <title lang="it">Angelus</title>
-    <desc lang="it">Il pontefice celebra il rito per i fedeli di tutto il mondo cristiano cattolico.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567918bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">VA</country>
-  </programme>
-  <programme start="20241216011000 +0000" stop="20241216013000 +0000" channel="TV2000">
-    <title lang="it">La compieta, preghiera della sera</title>
-    <desc lang="it">Le monache agostiniane del convento dei Santi Quattro Coronati in Roma recitano la compieta, preghiera della sera che comprende un salmo, una breve lettura e il cantico di Zaccaria.(c)</desc>
-    <date>2023</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13456429bdh10ac_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S2 E7</episode-num>
-  </programme>
-  <programme start="20241216013000 +0000" stop="20241216015500 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <sub-title lang="it">Dalla basilica papale di Santa Maria Maggiore in Roma</sub-title>
-    <desc lang="it">Dalla cappella della 'Salus Populi Romani', la preghiera dei misteri da parte del clero locale.(c)</desc>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216015500 +0000" stop="20241216023000 +0000" channel="TV2000">
-    <title lang="it">I Santi</title>
-    <sub-title lang="it">San Giovanni Bosco</sub-title>
-    <desc lang="it">Un documentario dedicato a San Giovanni Bosco, fondatore delle congregazioni dei Salesiani e delle Figlie di Maria Ausiliatrice. È stato canonizzato da papa Pio XI nel 1934.(c)</desc>
-    <date>2018</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17888880bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20241216023000 +0000" stop="20241216025500 +0000" channel="TV2000">
-    <title lang="it">Pinturicchio</title>
-    <desc lang="it">Documentario dedicato a Bernardino di Benedetto di Biagio, passato alla storia come il Pinturicchio, nato a Perugia tra il 1456 e il 1460 da una modesta famiglia di artigiani residente nel rione di Porta Sant' Angelo.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15225567ih10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216025500 +0000" stop="20241216034500 +0000" channel="TV2000">
-    <title lang="it">Quel che bolle in pentola</title>
-    <desc lang="it">Cuciniamo una parmigiana di finocchi, cupcake alla vaniglia con crema al burro e delle polpette.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28338413bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216034500 +0000" stop="20241216040000 +0000" channel="TV2000">
-    <title lang="it">Borghi d'Italia</title>
-    <desc lang="it">Un viaggio sul territorio con lo sguardo rivolto alle persone, all'ambiente, al paesaggio al folklore. I borghi italiani visti come comunità e traino semplice, ma forte, di un intero territorio; il tutto dal vivo.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567814ih8ab_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216040000 +0000" stop="20241216044000 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216044000 +0000" stop="20241216050000 +0000" channel="TV2000">
-    <title lang="it">In cammino</title>
-    <desc lang="it">Attraverso temi e ospiti diversi, si racconta il cammino della Chiesa verso il Sinodo, istituzione permanente del Collegio episcopale della Chiesa cattolica, fondato da Papa Paolo VI il 15 settembre 1965.(c)</desc>
-    <credits>
-      <director>Cesare Miceli</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20726748bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216050000 +0000" stop="20241216054500 +0000" channel="TV2000">
-    <title lang="it">L'ora solare</title>
-    <desc lang="it">Storie di chi ha scelto di non arrendersi e si affida alla speranza: vicende difficili in famiglia e in amore, atti di fede, di impegno civile e sociale, di fratellanza. Una occasione di conoscenza e confronto.(c)</desc>
-    <credits>
-      <director>Alessandro Tresa</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16098713bdh8ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216054500 +0000" stop="20241216060000 +0000" channel="TV2000">
-    <title lang="it">Preghiera del mattino</title>
-    <desc lang="it">Un momento collettivo di riflessione e spiritualità, che va dal Credo al Padre Nostro.(c)</desc>
-    <date>2023</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26023493ih8aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216060000 +0000" stop="20241216063000 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216063000 +0000" stop="20241216072500 +0000" channel="TV2000">
-    <title lang="it">Di buon mattino</title>
-    <desc lang="it">I due conduttori ci parlano di attualità, economia, costume, spettacolo, musica, cucina, curiosità, religione e feste popolari. In studio, insieme a loro, sono presenti anche ospiti ed esperti per discutere dei temi più vari.(c)</desc>
-    <credits>
-      <director>Paolo Ferrazza</director>
-      <director>Fabrizio Pieracci</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20623902bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216072500 +0000" stop="20241216073000 +0000" channel="TV2000">
-    <title lang="it">TG 2000 Flash</title>
-    <desc lang="it">Un'edizione rapida del telegiornale, per gli aggiornamenti sulle informazioni più importanti in materia di cronaca, politica, cultura, società e sport, a cura della redazione giornalistica della rete.(c)</desc>
-    <date>2021</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26044940ih11aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216073000 +0000" stop="20241216081000 +0000" channel="TV2000">
-    <title lang="it">Santa Messa</title>
-    <desc lang="it">In diretta dalla Basilica di San Pietro in Vaticano, la Santa Messa celebrata dal Sua Santità, Papa Francesco.(c)</desc>
-    <date>2012</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p481891ih10ad_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216081000 +0000" stop="20241216084500 +0000" channel="TV2000">
-    <title lang="it">Di buon mattino</title>
-    <desc lang="it">I due conduttori ci parlano di attualità, economia, costume, spettacolo, musica, cucina, curiosità, religione e feste popolari. In studio, insieme a loro, sono presenti anche ospiti ed esperti per discutere dei temi più vari.(c)</desc>
-    <credits>
-      <director>Paolo Ferrazza</director>
-      <director>Fabrizio Pieracci</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20623902bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216084500 +0000" stop="20241216093000 +0000" channel="TV2000">
-    <title lang="it">Il mio medico</title>
-    <desc lang="it">Programma di informazione medica a servizio dei cittadini pensato per diffondere una cultura della salute basata sulla prevenzione, attraverso un linguaggio accessibile e l'ascolto del proprio corpo.(c)</desc>
-    <credits>
-      <director>Fabrizio Pieracci Galante</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11216799bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216093000 +0000" stop="20241216100000 +0000" channel="TV2000">
-    <title lang="it">Vediamoci chiaro</title>
-    <desc lang="it">Scopriamo insieme tutti i consigli e le opinioni su come tutelare i cittadini, e alcuni suggerimenti e soluzioni ai piccoli e grandi problemi delle famiglie.(c)</desc>
-    <credits>
-      <director>Paolo Ferrazza</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20133951bdh10ad_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216100000 +0000" stop="20241216105500 +0000" channel="TV2000">
-    <title lang="it">Quel che bolle in pentola</title>
-    <desc lang="it">Cuciniamo insieme delle seppie con lenticchie, delle tigelle e una gustosa pinza.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28338413bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216105500 +0000" stop="20241216110000 +0000" channel="TV2000">
-    <title lang="it">Angelus</title>
-    <desc lang="it">Il pontefice celebra il rito per i fedeli di tutto il mondo cristiano cattolico.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567918bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">VA</country>
-  </programme>
-  <programme start="20241216110000 +0000" stop="20241216112000 +0000" channel="TV2000">
-    <title lang="it">TG 2000</title>
-    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216112000 +0000" stop="20241216121500 +0000" channel="TV2000">
-    <title lang="it">L'ora solare</title>
-    <desc lang="it">Storie di chi ha scelto di non arrendersi e si affida alla speranza: vicende difficili in famiglia e in amore, atti di fede, di impegno civile e sociale, di fratellanza. Una occasione di conoscenza e confronto.(c)</desc>
-    <credits>
-      <director>Alessandro Tresa</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16098713bdh8ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216121500 +0000" stop="20241216140000 +0000" channel="TV2000">
-    <title lang="it">Marina</title>
-    <desc lang="it">La storia d'amore tra Alex, giovane avvocato, e Marina, aspirante stilista, ostacolata dal rancore che divide le rispettive famiglie.(c)</desc>
-    <credits>
-      <director>Lito De Filippis</director>
-      <actor role="Alex Alonso">Ricardo Darín</actor>
-      <actor role="Marina Roldán">Grecia Colmenares</actor>
-      <actor role="Andrés">Luis Luque</actor>
-      <actor role="Vicente">Enrique Liporace</actor>
-      <actor role="Beatriz">Esther Goris</actor>
-      <actor role="Brenda">Victoria Carreras</actor>
-      <actor>Gilda Lousek</actor>
-      <actor>Juan Tenuta</actor>
-      <actor>Marisa Carreras</actor>
-      <actor>Daniel Lago</actor>
-    </credits>
-    <date>1989</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28343442ih8aa_Iconic_W660.webp" />
-    <country lang="it">AR</country>
-  </programme>
-  <programme start="20241216140000 +0000" stop="20241216141500 +0000" channel="TV2000">
-    <title lang="it">Coroncina alla Divina Misericordia</title>
-    <desc lang="it">Seguiamo insieme la recita della preghiera devozionale, ideata nel 1935 da suor Faustina Kowalska. I versi sono ispirati dalla visione di un angelo di cui la santa fu testimone durante la sua vita.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15466290bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216141500 +0000" stop="20241216145500 +0000" channel="TV2000">
-    <title lang="it">Siamo noi</title>
-    <desc lang="it">Un programma dedicato all'Italia che non si arrende, che crede nelle relazioni, promuove la solidarietà, crea soluzioni, condivide conoscenze e costruisce angoli di futuro.(c)</desc>
-    <credits>
-      <director>Alessandro Tresa</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12293529bdh10ac_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216145500 +0000" stop="20241216163000 +0000" channel="TV2000">
-    <title lang="it">Marina</title>
-    <desc lang="it">La storia d'amore tra Alex, giovane avvocato, e Marina, aspirante stilista, ostacolata dal rancore che divide le rispettive famiglie.(c)</desc>
-    <credits>
-      <director>Lito De Filippis</director>
-      <actor role="Alex Alonso">Ricardo Darín</actor>
-      <actor role="Marina Roldán">Grecia Colmenares</actor>
-      <actor role="Andrés">Luis Luque</actor>
-      <actor role="Vicente">Enrique Liporace</actor>
-      <actor role="Beatriz">Esther Goris</actor>
-      <actor role="Brenda">Victoria Carreras</actor>
-      <actor>Gilda Lousek</actor>
-      <actor>Juan Tenuta</actor>
-      <actor>Marisa Carreras</actor>
-      <actor>Daniel Lago</actor>
-    </credits>
-    <date>1989</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28343442ih8aa_Iconic_W660.webp" />
-    <country lang="it">AR</country>
-  </programme>
-  <programme start="20241216163000 +0000" stop="20241216165500 +0000" channel="TV2000">
-    <title lang="it">Il diario di Papa Francesco</title>
-    <desc lang="it">Gli impegni e le iniziative del Santo Padre: udienze, documenti, incontri, discorsi, omelie e gesti. Seguiamolo passo dopo passo, con inviati, servizi, interviste e dirette.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10879051bdh10af_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216165500 +0000" stop="20241216172500 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216172500 +0000" stop="20241216180000 +0000" channel="TV2000">
-    <title lang="it">TG 2000</title>
-    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216180000 +0000" stop="20241216183000 +0000" channel="TV2000">
-    <title lang="it">Santa Messa</title>
-    <desc lang="it">In diretta dalla Basilica di San Pietro in Vaticano, la Santa Messa celebrata dal Sua Santità, Papa Francesco.(c)</desc>
-    <date>2012</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p481891ih10ad_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216183000 +0000" stop="20241216190000 +0000" channel="TV2000">
-    <title lang="it">In cammino</title>
-    <desc lang="it">Attraverso temi e ospiti diversi, si racconta il cammino della Chiesa verso il Sinodo, istituzione permanente del Collegio episcopale della Chiesa cattolica, fondato da Papa Paolo VI il 15 settembre 1965.(c)</desc>
-    <credits>
-      <director>Cesare Miceli</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20726748bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216190000 +0000" stop="20241216194500 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.(c)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216194500 +0000" stop="20241216201500 +0000" channel="TV2000">
-    <title lang="it">TG 2000</title>
-    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.(c)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216201500 +0000" stop="20241216215500 +0000" channel="TV2000">
-    <title lang="it">Papa Francesco: Un uomo di parola</title>
-    <desc lang="it">Papa Francesco risponde alle domande provenienti dal mondo globalizzato di oggi, esprimendo profonda preoccupazione per i poveri e le disuguaglianze sociali che minano la pace.(c)</desc>
-    <credits>
-      <director>Wim Wenders</director>
-      <actor role="Francesco d'Assisi">Ignazio Oliva</actor>
-      <actor role="Friar">Daniele De Angelis</actor>
-      <actor>Carlo Falconetti</actor>
-    </credits>
-    <date>2018</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15175973ih8aa_Iconic_W660.webp" />
-    <country lang="it">CH</country>
-    <country lang="it">VA</country>
-    <country lang="it">IT</country>
-    <country lang="it">DE</country>
-    <country lang="it">FR</country>
-  </programme>
-  <programme start="20241216215500 +0000" stop="20241216223000 +0000" channel="TV2000">
-    <title lang="it">Indagine ai confini del sacro</title>
-    <desc lang="it">Addentriamoci insieme nel misterioso e segreto mondo delle sette e dell'occultismo, per scoprirne tutti i dettagli e le curiosità.(n)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11250781bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216223000 +0000" stop="20241216225500 +0000" channel="TV2000">
-    <title lang="it">La compieta, preghiera della sera</title>
-    <desc lang="it">Le monache agostiniane del convento dei Santi Quattro Coronati in Roma recitano la compieta, preghiera della sera che comprende un salmo, una breve lettura e il cantico di Zaccaria.(n)</desc>
-    <date>2023</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13456429bdh10ac_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S2 E1</episode-num>
-  </programme>
-  <programme start="20241216225500 +0000" stop="20241216232000 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <sub-title lang="it">Dalla basilica papale di Santa Maria Maggiore in Roma</sub-title>
-    <desc lang="it">Dalla cappella della 'Salus Populi Romani', la preghiera dei misteri da parte del clero locale.(n)</desc>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241216232000 +0000" stop="20241217001500 +0000" channel="TV2000">
-    <title lang="it">L'ora solare</title>
-    <desc lang="it">Storie di chi ha scelto di non arrendersi e si affida alla speranza: vicende difficili in famiglia e in amore, atti di fede, di impegno civile e sociale, di fratellanza. Una occasione di conoscenza e confronto.(n)</desc>
-    <credits>
-      <director>Alessandro Tresa</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16098713bdh8ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217001500 +0000" stop="20241217005500 +0000" channel="TV2000">
-    <title lang="it">Siamo noi</title>
-    <desc lang="it">Un programma dedicato all'Italia che non si arrende, che crede nelle relazioni, promuove la solidarietà, crea soluzioni, condivide conoscenze e costruisce angoli di futuro.(n)</desc>
-    <credits>
-      <director>Alessandro Tresa</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12293529bdh10ac_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217005500 +0000" stop="20241217011500 +0000" channel="TV2000">
-    <title lang="it">In cammino</title>
-    <desc lang="it">Attraverso temi e ospiti diversi, si racconta il cammino della Chiesa verso il Sinodo, istituzione permanente del Collegio episcopale della Chiesa cattolica, fondato da Papa Paolo VI il 15 settembre 1965.(n)</desc>
-    <credits>
-      <director>Cesare Miceli</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20726748bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217011500 +0000" stop="20241217020500 +0000" channel="TV2000">
-    <title lang="it">Quel che bolle in pentola</title>
-    <desc lang="it">Cuciniamo insieme delle seppie con lenticchie, delle tigelle e una gustosa pinza.(n)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28338413bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217020500 +0000" stop="20241217024000 +0000" channel="TV2000">
-    <title lang="it">I Santi</title>
-    <sub-title lang="it">Santa Teresina del bambin Gesù di Lisieux</sub-title>
-    <desc lang="it">Suor Teresa di Gesù Bambino e del Volto Santo, detta di Lisieux, fu beatificata il 29 aprile 1923 da papa Pio XI, e proclamata santa dallo stesso papa il 17 maggio 1925.(n)</desc>
-    <date>2021</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17888880bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E14</episode-num>
-  </programme>
-  <programme start="20241217024000 +0000" stop="20241217025500 +0000" channel="TV2000">
-    <title lang="it">Documentario</title>
-    <desc lang="it">Selezione di documentari proposti dalla rete e dedicati a temi culturali, sociali, storici, artistici e naturalistici. Il meglio della produzione nazionale e internazionale in ambito divulgativo.(n)</desc>
-    <date>2007</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p654729ih10ad_Iconic_W660.webp" />
-    <country lang="it">US</country>
-  </programme>
-  <programme start="20241217025500 +0000" stop="20241217034000 +0000" channel="TV2000">
-    <title lang="it">Il mio medico</title>
-    <desc lang="it">Programma di informazione medica a servizio dei cittadini pensato per diffondere una cultura della salute basata sulla prevenzione, attraverso un linguaggio accessibile e l'ascolto del proprio corpo.(n)</desc>
-    <credits>
-      <director>Fabrizio Pieracci Galante</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11216799bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217034000 +0000" stop="20241217035000 +0000" channel="TV2000">
-    <title lang="it">Vediamoci chiaro</title>
-    <desc lang="it">Scopriamo insieme tutti i consigli e le opinioni su come tutelare i cittadini, e alcuni suggerimenti e soluzioni ai piccoli e grandi problemi delle famiglie.(n)</desc>
-    <credits>
-      <director>Paolo Ferrazza</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20133951bdh10ad_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217035000 +0000" stop="20241217040000 +0000" channel="TV2000">
-    <title lang="it">Borghi d'Italia</title>
-    <desc lang="it">Un viaggio sul territorio con lo sguardo rivolto alle persone, all'ambiente, al paesaggio al folklore. I borghi italiani visti come comunità e traino semplice, ma forte, di un intero territorio; il tutto dal vivo.(n)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567814ih8ab_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217040000 +0000" stop="20241217044000 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.(n)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217044000 +0000" stop="20241217050000 +0000" channel="TV2000">
-    <title lang="it">In cammino</title>
-    <desc lang="it">Attraverso temi e ospiti diversi, si racconta il cammino della Chiesa verso il Sinodo, istituzione permanente del Collegio episcopale della Chiesa cattolica, fondato da Papa Paolo VI il 15 settembre 1965.(n)</desc>
-    <credits>
-      <director>Cesare Miceli</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20726748bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217050000 +0000" stop="20241217054500 +0000" channel="TV2000">
-    <title lang="it">L'ora solare</title>
-    <desc lang="it">Storie di chi ha scelto di non arrendersi e si affida alla speranza: vicende difficili in famiglia e in amore, atti di fede, di impegno civile e sociale, di fratellanza. Una occasione di conoscenza e confronto.(n)</desc>
-    <credits>
-      <director>Alessandro Tresa</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16098713bdh8ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217054500 +0000" stop="20241217060000 +0000" channel="TV2000">
-    <title lang="it">Preghiera del mattino</title>
-    <desc lang="it">Un momento collettivo di riflessione e spiritualità, che va dal Credo al Padre Nostro.(n)</desc>
-    <date>2023</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26023493ih8aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217060000 +0000" stop="20241217062500 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.(n)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217062500 +0000" stop="20241217072500 +0000" channel="TV2000">
-    <title lang="it">Di buon mattino</title>
-    <desc lang="it">I due conduttori ci parlano di attualità, economia, costume, spettacolo, musica, cucina, curiosità, religione e feste popolari. In studio, insieme a loro, sono presenti anche ospiti ed esperti per discutere dei temi più vari.(n)</desc>
-    <credits>
-      <director>Paolo Ferrazza</director>
-      <director>Fabrizio Pieracci</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20623902bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217072500 +0000" stop="20241217073000 +0000" channel="TV2000">
-    <title lang="it">TG 2000 Flash</title>
-    <desc lang="it">Un'edizione rapida del telegiornale, per gli aggiornamenti sulle informazioni più importanti in materia di cronaca, politica, cultura, società e sport, a cura della redazione giornalistica della rete.(n)</desc>
-    <date>2021</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26044940ih11aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217073000 +0000" stop="20241217081000 +0000" channel="TV2000">
-    <title lang="it">Santa Messa</title>
-    <desc lang="it">In diretta dalla Basilica di San Pietro in Vaticano, la Santa Messa celebrata dal Sua Santità, Papa Francesco.(n)</desc>
-    <date>2012</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p481891ih10ad_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217081000 +0000" stop="20241217084500 +0000" channel="TV2000">
-    <title lang="it">Di buon mattino</title>
-    <desc lang="it">I due conduttori ci parlano di attualità, economia, costume, spettacolo, musica, cucina, curiosità, religione e feste popolari. In studio, insieme a loro, sono presenti anche ospiti ed esperti per discutere dei temi più vari.(n)</desc>
-    <credits>
-      <director>Paolo Ferrazza</director>
-      <director>Fabrizio Pieracci</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20623902bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217084500 +0000" stop="20241217093000 +0000" channel="TV2000">
-    <title lang="it">Il mio medico</title>
-    <desc lang="it">Programma di informazione medica a servizio dei cittadini pensato per diffondere una cultura della salute basata sulla prevenzione, attraverso un linguaggio accessibile e l'ascolto del proprio corpo.(n)</desc>
-    <credits>
-      <director>Fabrizio Pieracci Galante</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11216799bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217093000 +0000" stop="20241217100000 +0000" channel="TV2000">
-    <title lang="it">Vediamoci chiaro</title>
-    <desc lang="it">Scopriamo insieme tutti i consigli e le opinioni su come tutelare i cittadini, e alcuni suggerimenti e soluzioni ai piccoli e grandi problemi delle famiglie.(n)</desc>
-    <credits>
-      <director>Paolo Ferrazza</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20133951bdh10ad_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217100000 +0000" stop="20241217105500 +0000" channel="TV2000">
-    <title lang="it">Quel che bolle in pentola</title>
-    <desc lang="it">Cuciniamo chitarrina al limone con baccalà e asparagi su crema di bufala e degli stricchetti.(n)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28338413bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217105500 +0000" stop="20241217110000 +0000" channel="TV2000">
-    <title lang="it">Angelus</title>
-    <desc lang="it">Il pontefice celebra il rito per i fedeli di tutto il mondo cristiano cattolico.(n)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567918bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">VA</country>
-  </programme>
-  <programme start="20241217110000 +0000" stop="20241217112000 +0000" channel="TV2000">
-    <title lang="it">TG 2000</title>
-    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.(n)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217112000 +0000" stop="20241217121500 +0000" channel="TV2000">
-    <title lang="it">L'ora solare</title>
-    <desc lang="it">Storie di chi ha scelto di non arrendersi e si affida alla speranza: vicende difficili in famiglia e in amore, atti di fede, di impegno civile e sociale, di fratellanza. Una occasione di conoscenza e confronto.(n)</desc>
-    <credits>
-      <director>Alessandro Tresa</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16098713bdh8ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217121500 +0000" stop="20241217140000 +0000" channel="TV2000">
-    <title lang="it">Marina</title>
-    <desc lang="it">La storia d'amore tra Alex, giovane avvocato, e Marina, aspirante stilista, ostacolata dal rancore che divide le rispettive famiglie.(n)</desc>
-    <credits>
-      <director>Lito De Filippis</director>
-      <actor role="Alex Alonso">Ricardo Darín</actor>
-      <actor role="Marina Roldán">Grecia Colmenares</actor>
-      <actor role="Andrés">Luis Luque</actor>
-      <actor role="Vicente">Enrique Liporace</actor>
-      <actor role="Beatriz">Esther Goris</actor>
-      <actor role="Brenda">Victoria Carreras</actor>
-      <actor>Gilda Lousek</actor>
-      <actor>Juan Tenuta</actor>
-      <actor>Marisa Carreras</actor>
-      <actor>Daniel Lago</actor>
-    </credits>
-    <date>1989</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28343442ih8aa_Iconic_W660.webp" />
-    <country lang="it">AR</country>
-  </programme>
-  <programme start="20241217140000 +0000" stop="20241217141500 +0000" channel="TV2000">
-    <title lang="it">Coroncina alla Divina Misericordia</title>
-    <desc lang="it">Seguiamo insieme la recita della preghiera devozionale, ideata nel 1935 da suor Faustina Kowalska. I versi sono ispirati dalla visione di un angelo di cui la santa fu testimone durante la sua vita.(n)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15466290bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217141500 +0000" stop="20241217145500 +0000" channel="TV2000">
-    <title lang="it">Siamo noi</title>
-    <desc lang="it">Un programma dedicato all'Italia che non si arrende, che crede nelle relazioni, promuove la solidarietà, crea soluzioni, condivide conoscenze e costruisce angoli di futuro.(n)</desc>
-    <credits>
-      <director>Alessandro Tresa</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12293529bdh10ac_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217145500 +0000" stop="20241217163000 +0000" channel="TV2000">
-    <title lang="it">Marina</title>
-    <desc lang="it">La storia d'amore tra Alex, giovane avvocato, e Marina, aspirante stilista, ostacolata dal rancore che divide le rispettive famiglie.(n)</desc>
-    <credits>
-      <director>Lito De Filippis</director>
-      <actor role="Alex Alonso">Ricardo Darín</actor>
-      <actor role="Marina Roldán">Grecia Colmenares</actor>
-      <actor role="Andrés">Luis Luque</actor>
-      <actor role="Vicente">Enrique Liporace</actor>
-      <actor role="Beatriz">Esther Goris</actor>
-      <actor role="Brenda">Victoria Carreras</actor>
-      <actor>Gilda Lousek</actor>
-      <actor>Juan Tenuta</actor>
-      <actor>Marisa Carreras</actor>
-      <actor>Daniel Lago</actor>
-    </credits>
-    <date>1989</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28343442ih8aa_Iconic_W660.webp" />
-    <country lang="it">AR</country>
-  </programme>
-  <programme start="20241217163000 +0000" stop="20241217165500 +0000" channel="TV2000">
-    <title lang="it">Il diario di Papa Francesco</title>
-    <desc lang="it">Gli impegni e le iniziative del Santo Padre: udienze, documenti, incontri, discorsi, omelie e gesti. Seguiamolo passo dopo passo, con inviati, servizi, interviste e dirette.(n)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10879051bdh10af_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217165500 +0000" stop="20241217172500 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.(n)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217172500 +0000" stop="20241217180000 +0000" channel="TV2000">
-    <title lang="it">TG 2000</title>
-    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.(n)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217180000 +0000" stop="20241217183000 +0000" channel="TV2000">
-    <title lang="it">Santa Messa</title>
-    <desc lang="it">In diretta dalla Basilica di San Pietro in Vaticano, la Santa Messa celebrata dal Sua Santità, Papa Francesco.(n)</desc>
-    <date>2012</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p481891ih10ad_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217183000 +0000" stop="20241217190000 +0000" channel="TV2000">
-    <title lang="it">In cammino</title>
-    <desc lang="it">Attraverso temi e ospiti diversi, si racconta il cammino della Chiesa verso il Sinodo, istituzione permanente del Collegio episcopale della Chiesa cattolica, fondato da Papa Paolo VI il 15 settembre 1965.(n)</desc>
-    <credits>
-      <director>Cesare Miceli</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20726748bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217190000 +0000" stop="20241217194500 +0000" channel="TV2000">
-    <title lang="it">Recita del Rosario</title>
-    <desc lang="it">L'appuntamento con la riflessione, la meditazione e la recita dei misteri del rosario.(n)</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10567639bdh10ab_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217194500 +0000" stop="20241217200500 +0000" channel="TV2000">
-    <title lang="it">TG 2000</title>
-    <desc lang="it">Notiziario veloce e compatto che privilegia la società civile e la realtà internazionale, compresa quella che abitualmente resta fuori dai circuiti informativi.(n)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10565437ih10aa_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217200500 +0000" stop="20241217212500 +0000" channel="TV2000">
-    <title lang="it">Un amico molto speciale</title>
-    <desc lang="it">Anton incontra un piccolo criminale che si traveste da Babbo Natale e lo convince a fare un giro assieme sulla sua slitta magica.(n)</desc>
-    <credits>
-      <director>Alexandre Coffre</director>
-      <actor role="Le Père Noël">Tahar Rahim</actor>
-      <actor role="Marie">Victor Cabal</actor>
-      <actor role="Le Père Fouettard">Amélie Glenn</actor>
-      <actor role="La mère">Michaël Abiteboul</actor>
-      <actor role="Camille">Annelise Hesme</actor>
-      <actor>Philippe Rebbot</actor>
-      <actor>Jean-François Cayrey</actor>
-      <actor>Djibril Gueye</actor>
-    </credits>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12186264bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">FR</country>
-    <country lang="it">BE</country>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20241217212500 +0000" stop="20241217220500 +0000" channel="TV2000">
-    <title lang="it">Retroscena</title>
-    <desc lang="it">Serie di reportage che vogliono testimoniare la forma e la sostanza del teatro oggi, con le sue espressioni, i suoi mutamenti, i suoi scenari e le sue tendenze.(n)</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10879038ih10ae_Iconic_W660.webp" />
-    <country lang="it">IT</country>
-  </programme>
-  <programme start="20241217220500 +0000" stop="20241217234000 +0000" channel="TV2000">
-    <title lang="it">The House of Us</title>
-    <desc lang="it">La giovane Hana vuole fare riappacificare i genitori, mentre si prende cura di due sorelline appartenenti ad una famiglia del vicinato. Hana comincia a percepire un senso di normalità durante una gita sulla spiaggia.(n)</desc>
-    <credits>
-      <director>Yoon Ga-eun</director>
-      <actor>Nayeon Kim</actor>
-      <actor>Kim Si-ah</actor>
-      <actor>Ye-rim Joo</actor>
-      <actor>Ji-ho Ahn</actor>
-      <actor>Choi Jeong-in</actor>
-      <actor>Lee Ju-won</actor>
-    </credits>
-    <date>2019</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18124249bdh10aa_Backdrop_W660.webp" />
-    <country lang="it">KR</country>
-  </programme>
-  <programme start="20241217234000 +0000" stop="20241218000000 +0000" channel="TV2000">
-    <title lang="it">La compieta, preghiera della sera</title>
-    <desc lang="it">Le monache agostiniane del convento dei Santi Quattro Coronati in Roma recitano la compieta, preghiera della sera che comprende un salmo, una breve lettura e il cantico di Zaccaria.(n)</desc>
-    <date>2023</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13456429bdh10ac_Backdrop_W660.webp" />
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
   <programme start="20241214000000 +0000" stop="20241214010000 +0000" channel="GB News">
     <title lang="en">Lee Anderson's Real World</title>
