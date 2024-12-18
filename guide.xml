@@ -2387,7 +2387,7 @@
   </programme>
   <programme start="20241221070000 +0100" stop="20241221070500 +0100" channel="Das Erste HD">
     <title lang="hr">Shaun Das Schaf</title>
-    <desc lang="hr">Ein warmes Plätzchen. Bitzer ist erkältet und der Bauer nimmt den Hofhund mit ins Haus, um ihm ein Krankenlager vor dem Kamin herzurichten. Doch das ist der Lieblingsplatz von Mieze Pidsley!(n)</desc>
+    <desc lang="hr">Ein warmes Plätzchen. Bitzer ist erkältet und der Bauer nimmt den Hofhund mit ins Haus, um ihm ein Krankenlager vor dem Kamin herzurichten. Doch das ist der Lieblingsplatz von Mieze Pidsley!</desc>
     <credits>
       <director>Richard Starzak</director>
       <actor>John Sparkes</actor>
@@ -2400,12 +2400,12 @@
   </programme>
   <programme start="20241221070500 +0100" stop="20241221071500 +0100" channel="Das Erste HD">
     <title lang="hr">Mausblick</title>
-    <desc lang="hr">Forst und Wald. Der Klimawandel und das wenige Wasser machen auch den Bäumen zu schaffen. Überall spricht man vom Waldsterben.(n)</desc>
+    <desc lang="hr">Forst und Wald. Der Klimawandel und das wenige Wasser machen auch den Bäumen zu schaffen. Überall spricht man vom Waldsterben.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/9d19e5769b42bae7aef97d151830f8de95c02156_thumb.jpg" />
   </programme>
   <programme start="20241221071500 +0100" stop="20241221074000 +0100" channel="Das Erste HD">
     <title lang="hr">Anna Und Die Wilden Tiere</title>
-    <desc lang="hr">Vom Elch geknutscht. Anna macht sich auf den Weg zu einem Date mit dem größten Hirsch Europas, dem Elch. Im Elchgehege von Jörg trifft sie Norbert, einen zahmen, neun Jahre alten Elchbullen. Sie darf auf ihm sitzen.(n)</desc>
+    <desc lang="hr">Vom Elch geknutscht. Anna macht sich auf den Weg zu einem Date mit dem größten Hirsch Europas, dem Elch. Im Elchgehege von Jörg trifft sie Norbert, einen zahmen, neun Jahre alten Elchbullen. Sie darf auf ihm sitzen.</desc>
     <credits>
       <director>Christiane Streckfuß</director>
       <director>Sylvia Obst</director>
@@ -2415,7 +2415,7 @@
   </programme>
   <programme start="20241221074000 +0100" stop="20241221080500 +0100" channel="Das Erste HD">
     <title lang="hr">Checker Tobi</title>
-    <desc lang="hr">Tobi möchte keinen gewöhnlichen Tannenbaum zu Weihnachten, sondern hat sich einen der größten Christbäume Deutschlands ausgesucht: den Weihnachtsbaum auf dem Münchner Marienplatz.(n)</desc>
+    <desc lang="hr">Tobi möchte keinen gewöhnlichen Tannenbaum zu Weihnachten, sondern hat sich einen der größten Christbäume Deutschlands ausgesucht: den Weihnachtsbaum auf dem Münchner Marienplatz.</desc>
     <credits>
       <director>Antonia Simm</director>
     </credits>
@@ -2423,7 +2423,7 @@
   </programme>
   <programme start="20241221080500 +0100" stop="20241221082000 +0100" channel="Das Erste HD">
     <title lang="hr">Luka Und Das Magische Theater</title>
-    <desc lang="hr">19. Dezember – Sag, dass du ihn lieb hast. Erle glaubt, dass die Kinder ihre Tochter Lobelia entführt haben. Doch diese ist aus freien Stücken mitgekommen und freut sich, neue Freunde zu haben.(n)</desc>
+    <desc lang="hr">19. Dezember – Sag, dass du ihn lieb hast. Erle glaubt, dass die Kinder ihre Tochter Lobelia entführt haben. Doch diese ist aus freien Stücken mitgekommen und freut sich, neue Freunde zu haben.</desc>
     <credits>
       <director>Tonje Voreland</director>
       <actor>Lukas Langmyr Mabin</actor>
@@ -2442,7 +2442,7 @@
   </programme>
   <programme start="20241221082000 +0100" stop="20241221084000 +0100" channel="Das Erste HD">
     <title lang="hr">Luka Und Das Magische Theater</title>
-    <desc lang="hr">20. Dezember – Glück im Unglück. Erle und die Polizei haben das Theater verwüstet hinterlassen, als sie nach den Kindern gesucht haben. Nachdem sie abgezogen sind, können die Kinder endlich zurück.(n)</desc>
+    <desc lang="hr">20. Dezember – Glück im Unglück. Erle und die Polizei haben das Theater verwüstet hinterlassen, als sie nach den Kindern gesucht haben. Nachdem sie abgezogen sind, können die Kinder endlich zurück.</desc>
     <credits>
       <director>Tonje Voreland</director>
       <actor>Lukas Langmyr Mabin</actor>
@@ -2461,7 +2461,7 @@
   </programme>
   <programme start="20241221084000 +0100" stop="20241221085500 +0100" channel="Das Erste HD">
     <title lang="hr">Luka Und Das Magische Theater</title>
-    <desc lang="hr">21. Dezember – Falsche Schwestern. Luka soll in eine Besserungsanstalt geschickt werden. Dies gilt zwar nur für Waisenkinder, doch Erle konnte die Polizei überzeugen, dass Luka keine Eltern mehr hat.(n)</desc>
+    <desc lang="hr">21. Dezember – Falsche Schwestern. Luka soll in eine Besserungsanstalt geschickt werden. Dies gilt zwar nur für Waisenkinder, doch Erle konnte die Polizei überzeugen, dass Luka keine Eltern mehr hat.</desc>
     <credits>
       <director>Tonje Voreland</director>
       <actor>Lukas Langmyr Mabin</actor>
@@ -2480,57 +2480,57 @@
   </programme>
   <programme start="20241221085500 +0100" stop="20241221090000 +0100" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
-    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/01f5217b42281f40b73fb57bbf76f6ffc6aef407_thumb.jpg" />
   </programme>
   <programme start="20241221090000 +0100" stop="20241221180000 +0100" channel="Das Erste HD">
     <title lang="hr">Sportschau: Nordische Kombination: Weltcup, Kombinationsspringen Damen, Aus Ramsau (a)..</title>
-    <desc lang="hr">Sportschau: Nordische Kombination: Weltcup, Kombinationsspringen Damen, aus Ramsau (A).... Das Erste präsentiert Live-Übertragungen der populärsten Sportarten und berichtet in Zusammenfassungen über die wichtigsten Sportereignisse des Tages.(n)</desc>
+    <desc lang="hr">Sportschau: Nordische Kombination: Weltcup, Kombinationsspringen Damen, aus Ramsau (A).... Das Erste präsentiert Live-Übertragungen der populärsten Sportarten und berichtet in Zusammenfassungen über die wichtigsten Sportereignisse des Tages.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/78d8418a1fff47372d762d62ffdebeabc13e6937_thumb.jpg" />
   </programme>
   <programme start="20241221180000 +0100" stop="20241221183000 +0100" channel="Das Erste HD">
     <title lang="hr">Sportschau</title>
-    <desc lang="hr">Fußball: 3. Liga. Aktuelles aus der Welt des Sports, ob Fußball-Bundesliga, Handball, Boxen oder Motorsport. Hier erfahren Sie, wer wo wann was gewonnen hat.(n)</desc>
+    <desc lang="hr">Fußball: 3. Liga. Aktuelles aus der Welt des Sports, ob Fußball-Bundesliga, Handball, Boxen oder Motorsport. Hier erfahren Sie, wer wo wann was gewonnen hat.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/78d8418a1fff47372d762d62ffdebeabc13e6937_thumb.jpg" />
   </programme>
   <programme start="20241221183000 +0100" stop="20241221195700 +0100" channel="Das Erste HD">
     <title lang="hr">Sportschau</title>
-    <desc lang="hr">Fußball: Bundesliga, 15. Spieltag, FC Bayern München – RB Leipzig (Fr.), VfB Stuttgart – FC St. Pauli, Eintracht Frankfurt – 1. FSV Mainz 05, TSG Hoffenheim – Borussia Mönchengladbach, SV Werder Bremen – 1. FC Union Berlin, Holstein Kiel – FC Augsburg, Bayer 04 Leverkusen – SC Freiburg (18:30), VfL Bochum 1848 – 1. FC Heidenheim 1846 (So.), VfL Wolfsburg – Borussia Dortmund (So.). FC Bayern München – RB Leipzig Der 15. Spieltag VfB Stuttgart – FC St. Pauli Der 15. Spieltag Eintracht Frankfurt – 1. FSV Mainz 05 Der 15. Spieltag TSG Hoffenheim – Borussia Mönchengladbach Der...(n)</desc>
+    <desc lang="hr">Fußball: Bundesliga, 15. Spieltag, FC Bayern München – RB Leipzig (Fr.), VfB Stuttgart – FC St. Pauli, Eintracht Frankfurt – 1. FSV Mainz 05, TSG Hoffenheim – Borussia Mönchengladbach, SV Werder Bremen – 1. FC Union Berlin, Holstein Kiel – FC Augsburg, Bayer 04 Leverkusen – SC Freiburg (18:30), VfL Bochum 1848 – 1. FC Heidenheim 1846 (So.), VfL Wolfsburg – Borussia Dortmund (So.). FC Bayern München – RB Leipzig Der 15. Spieltag VfB Stuttgart – FC St. Pauli Der 15. Spieltag Eintracht Frankfurt – 1. FSV Mainz 05 Der 15. Spieltag TSG Hoffenheim – Borussia Mönchengladbach Der...</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/78d8418a1fff47372d762d62ffdebeabc13e6937_thumb.jpg" />
   </programme>
   <programme start="20241221195700 +0100" stop="20241221200000 +0100" channel="Das Erste HD">
     <title lang="hr">Lotto Am Samstag</title>
-    <desc lang="hr">Gewinnzahlen der 51. Ausspielung. Moderatorin Franziska Reichenbacher präsentiert jeden Samstag um 19.57 Uhr die kurz zuvor gezogenen Gewinnzahlen.(n)</desc>
+    <desc lang="hr">Gewinnzahlen der 51. Ausspielung. Moderatorin Franziska Reichenbacher präsentiert jeden Samstag um 19.57 Uhr die kurz zuvor gezogenen Gewinnzahlen.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6f35271347e0a72e7cf5dc5f6fa72cb5cbc49918_thumb.jpg" />
   </programme>
   <programme start="20241221200000 +0100" stop="20241221201500 +0100" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
-    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/01f5217b42281f40b73fb57bbf76f6ffc6aef407_thumb.jpg" />
   </programme>
   <programme start="20241221201500 +0100" stop="20241221232500 +0100" channel="Das Erste HD">
     <title lang="hr">Verstehen Sie Spaß</title>
-    <desc lang="hr">Verstehen Sie Spaß?. "Ho ho ho!" Santa Barbara hat für die Weihnachtsausgabe viele neue Spaßfilme mitgebracht.(n)</desc>
+    <desc lang="hr">Verstehen Sie Spaß?. "Ho ho ho!" Santa Barbara hat für die Weihnachtsausgabe viele neue Spaßfilme mitgebracht.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/1fef9d7845fe870ee3a3b4cf7fe505b8fa5b4d1a_thumb.jpg" />
   </programme>
   <programme start="20241221232500 +0100" stop="20241221234500 +0100" channel="Das Erste HD">
     <title lang="hr">Tagesthemen</title>
-    <desc lang="hr">Mit Wetter. Die Tagesthemen vermitteln ergänzende Informationen zu den tagesaktuellen Ereignissen und zeigen Zusammenhänge und Hintergründe.(n)</desc>
+    <desc lang="hr">Mit Wetter. Die Tagesthemen vermitteln ergänzende Informationen zu den tagesaktuellen Ereignissen und zeigen Zusammenhänge und Hintergründe.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/75a8a4bd2a8d7dd6ecf5b0210a6ec441b300e9ce_thumb.jpg" />
   </programme>
   <programme start="20241221234500 +0100" stop="20241221235000 +0100" channel="Das Erste HD">
     <title lang="hr">Das Wort Zum Sonntag</title>
-    <desc lang="hr">"Das Wort zum Sonntag" bietet ein paar Minuten Zeit für die innere Einkehr und betrachtet Aktuelles aus einem ganz besonderen Blickwinkel.(n)</desc>
+    <desc lang="hr">"Das Wort zum Sonntag" bietet ein paar Minuten Zeit für die innere Einkehr und betrachtet Aktuelles aus einem ganz besonderen Blickwinkel.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/abd699b67db9d2d181816507d788094a342cb533_thumb.jpg" />
   </programme>
   <programme start="20241221235000 +0100" stop="20241222003500 +0100" channel="Das Erste HD">
     <title lang="hr">Fanta Vier Forever, Baby!?! – Die Doku Zur Tour</title>
-    <desc lang="hr">Die Hip-Hop-Legenden Smudo, Michi Beck, Thomas D und And.Ypsilon starten ihre "Long Player Tour" – die ARD ist hautnah dabei.(n)</desc>
+    <desc lang="hr">Die Hip-Hop-Legenden Smudo, Michi Beck, Thomas D und And.Ypsilon starten ihre "Long Player Tour" – die ARD ist hautnah dabei.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b078aa29ae648f5c34c2b53c9658037b289a477_thumb.jpg" />
   </programme>
   <programme start="20241222003500 +0100" stop="20241222021500 +0100" channel="Das Erste HD">
     <title lang="hr">Die Üblichen Verdächtigen</title>
-    <desc lang="hr">Nach einem Blutbad im Hafen wird der Kleinkriminelle Roger Kint als einziger Überlebender verhaftet. David Kujan presst aus Kint in einem langen Verhör die Vorgeschichte des Verbrechens heraus.(n)</desc>
+    <desc lang="hr">Nach einem Blutbad im Hafen wird der Kleinkriminelle Roger Kint als einziger Überlebender verhaftet. David Kujan presst aus Kint in einem langen Verhör die Vorgeschichte des Verbrechens heraus.</desc>
     <credits>
       <director>Bryan Singer</director>
       <actor>Gabriel Byrne</actor>
@@ -2549,12 +2549,12 @@
   </programme>
   <programme start="20241222021500 +0100" stop="20241222022000 +0100" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
-    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/01f5217b42281f40b73fb57bbf76f6ffc6aef407_thumb.jpg" />
   </programme>
   <programme start="20241222022000 +0100" stop="20241222035000 +0100" channel="Das Erste HD">
     <title lang="hr">Allmen Und Das Geheimnis Des Rosa Diamanten</title>
-    <desc lang="hr">Johann Friedrich von Allmen und sein Butler widmen sich der Wiederbeschaffung von geraubten Kunstwerken. Diesmal geht es um einen rosa Diamanten, hinter dem aber noch jemand anderer her ist.(n)</desc>
+    <desc lang="hr">Johann Friedrich von Allmen und sein Butler widmen sich der Wiederbeschaffung von geraubten Kunstwerken. Diesmal geht es um einen rosa Diamanten, hinter dem aber noch jemand anderer her ist.</desc>
     <credits>
       <director>Thomas Berger</director>
       <director>Martin Rauhaus</director>
@@ -2574,7 +2574,7 @@
   </programme>
   <programme start="20241222035000 +0100" stop="20241222052000 +0100" channel="Das Erste HD">
     <title lang="hr">Verloren Auf Borneo</title>
-    <desc lang="hr">Spielfilm Deutschland 2012 +++ Eigentlich wollte Julia zu Hohenberg ihren Hochzeitstag am Strand von Hawaii verbringen.(n)</desc>
+    <desc lang="hr">Spielfilm Deutschland 2012 +++ Eigentlich wollte Julia zu Hohenberg ihren Hochzeitstag am Strand von Hawaii verbringen.</desc>
     <credits>
       <director>Ulli Baumann</director>
       <actor>Hannes Jaenicke</actor>
@@ -2589,17 +2589,17 @@
   </programme>
   <programme start="20241222052000 +0100" stop="20241222052500 +0100" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
-    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/01f5217b42281f40b73fb57bbf76f6ffc6aef407_thumb.jpg" />
   </programme>
   <programme start="20241222052500 +0100" stop="20241222053000 +0100" channel="Das Erste HD">
     <title lang="hr">Deutschlandbilder</title>
-    <desc lang="hr">Deutsche Landschaften, Städte, Inseln: Begleiten Sie uns zu den schönsten Plätzen Deutschlands.(n)</desc>
+    <desc lang="hr">Deutsche Landschaften, Städte, Inseln: Begleiten Sie uns zu den schönsten Plätzen Deutschlands.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e092a962736394c4d6294e3e1e72600a7a1e75c5_thumb.jpg" />
   </programme>
   <programme start="20241222053000 +0100" stop="20241222061500 +0100" channel="Das Erste HD">
     <title lang="hr">Tierisch Gut</title>
-    <desc lang="hr">tierisch gut!. Alle Jahre wieder erfreuen besonders die Tierkinder die großen und kleinen Besucher im Zoo und Tierpark Berlin.(n)</desc>
+    <desc lang="hr">tierisch gut!. Alle Jahre wieder erfreuen besonders die Tierkinder die großen und kleinen Besucher im Zoo und Tierpark Berlin.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/656fa143677c753276d47985998cc38ae73ae75e_thumb.jpg" />
   </programme>
   <programme start="20241218011500 +0000" stop="20241218023000 +0000" channel="Horror Machine">
@@ -4782,242 +4782,242 @@
   </programme>
   <programme start="20241221060000 +0100" stop="20241221063000 +0100" channel="Russia Today TV">
     <title lang="hr">Going Underground</title>
-    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.(n)</desc>
+    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3d245db52a82d92bf07b8ef3fe9d54df3a762d74_thumb.jpg" />
   </programme>
   <programme start="20241221063000 +0100" stop="20241221070000 +0100" channel="Russia Today TV">
     <title lang="hr">Documentary</title>
-    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.(n)</desc>
+    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83974d873bbcf55b1a577175e77f83807d330486_thumb.jpg" />
   </programme>
   <programme start="20241221070000 +0100" stop="20241221073000 +0100" channel="Russia Today TV">
     <title lang="hr">Documentary</title>
-    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.(n)</desc>
+    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83974d873bbcf55b1a577175e77f83807d330486_thumb.jpg" />
   </programme>
   <programme start="20241221073000 +0100" stop="20241221080000 +0100" channel="Russia Today TV">
     <title lang="hr">Documentary</title>
-    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.(n)</desc>
+    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83974d873bbcf55b1a577175e77f83807d330486_thumb.jpg" />
   </programme>
   <programme start="20241221080000 +0100" stop="20241221083000 +0100" channel="Russia Today TV">
     <title lang="hr">Cross Talk</title>
-    <desc lang="hr">CrossTalk hosted by Peter Lavelle from Russia Today studios in Moscow demands loud and clear answers from the guests of the show regarding all kinds of sensitive global issues.(n)</desc>
+    <desc lang="hr">CrossTalk hosted by Peter Lavelle from Russia Today studios in Moscow demands loud and clear answers from the guests of the show regarding all kinds of sensitive global issues.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2ebc0e347729723fc7e5f369a2b5a5e588bc9adb_thumb.jpg" />
   </programme>
   <programme start="20241221083000 +0100" stop="20241221090000 +0100" channel="Russia Today TV">
     <title lang="hr">Going Underground</title>
-    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.(n)</desc>
+    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3d245db52a82d92bf07b8ef3fe9d54df3a762d74_thumb.jpg" />
   </programme>
   <programme start="20241221090000 +0100" stop="20241221093000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241221093000 +0100" stop="20241221100000 +0100" channel="Russia Today TV">
     <title lang="hr">Documentary</title>
-    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.(n)</desc>
+    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83974d873bbcf55b1a577175e77f83807d330486_thumb.jpg" />
   </programme>
   <programme start="20241221100000 +0100" stop="20241221103000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241221103000 +0100" stop="20241221110000 +0100" channel="Russia Today TV">
     <title lang="hr">Documentary</title>
-    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.(n)</desc>
+    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83974d873bbcf55b1a577175e77f83807d330486_thumb.jpg" />
   </programme>
   <programme start="20241221110000 +0100" stop="20241221113000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241221113000 +0100" stop="20241221120000 +0100" channel="Russia Today TV">
     <title lang="hr">Going Underground</title>
-    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.(n)</desc>
+    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3d245db52a82d92bf07b8ef3fe9d54df3a762d74_thumb.jpg" />
   </programme>
   <programme start="20241221120000 +0100" stop="20241221123000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241221123000 +0100" stop="20241221130000 +0100" channel="Russia Today TV">
     <title lang="hr">Documentary</title>
-    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.(n)</desc>
+    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83974d873bbcf55b1a577175e77f83807d330486_thumb.jpg" />
   </programme>
   <programme start="20241221130000 +0100" stop="20241221133000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241221133000 +0100" stop="20241221140000 +0100" channel="Russia Today TV">
     <title lang="hr">Documentary</title>
-    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.(n)</desc>
+    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83974d873bbcf55b1a577175e77f83807d330486_thumb.jpg" />
   </programme>
   <programme start="20241221140000 +0100" stop="20241221143000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241221143000 +0100" stop="20241221150000 +0100" channel="Russia Today TV">
     <title lang="hr">Going Underground</title>
-    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.(n)</desc>
+    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3d245db52a82d92bf07b8ef3fe9d54df3a762d74_thumb.jpg" />
   </programme>
   <programme start="20241221150000 +0100" stop="20241221153000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241221153000 +0100" stop="20241221160000 +0100" channel="Russia Today TV">
     <title lang="hr">Documentary</title>
-    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.(n)</desc>
+    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83974d873bbcf55b1a577175e77f83807d330486_thumb.jpg" />
   </programme>
   <programme start="20241221160000 +0100" stop="20241221163000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241221163000 +0100" stop="20241221170000 +0100" channel="Russia Today TV">
     <title lang="hr">Lumumba's Africa</title>
-    <desc lang="hr">Lumumba's Africa focuses on the past and current issues affecting the African continent; Filmed amidst the beautiful landscapes of Kenya and hosted by Professor P.L.O.(n)</desc>
+    <desc lang="hr">Lumumba's Africa focuses on the past and current issues affecting the African continent; Filmed amidst the beautiful landscapes of Kenya and hosted by Professor P.L.O.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3f4521af8b4c760aed693f36ca995116c6be1cdc_thumb.jpg" />
   </programme>
   <programme start="20241221170000 +0100" stop="20241221173000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241221173000 +0100" stop="20241221180000 +0100" channel="Russia Today TV">
     <title lang="hr">Documentary</title>
-    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.(n)</desc>
+    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83974d873bbcf55b1a577175e77f83807d330486_thumb.jpg" />
   </programme>
   <programme start="20241221180000 +0100" stop="20241221183000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241221183000 +0100" stop="20241221190000 +0100" channel="Russia Today TV">
     <title lang="hr">Going Underground</title>
-    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.(n)</desc>
+    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3d245db52a82d92bf07b8ef3fe9d54df3a762d74_thumb.jpg" />
   </programme>
   <programme start="20241221190000 +0100" stop="20241221193000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241221193000 +0100" stop="20241221200000 +0100" channel="Russia Today TV">
     <title lang="hr">Documentary</title>
-    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.(n)</desc>
+    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83974d873bbcf55b1a577175e77f83807d330486_thumb.jpg" />
   </programme>
   <programme start="20241221200000 +0100" stop="20241221203000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241221203000 +0100" stop="20241221210000 +0100" channel="Russia Today TV">
     <title lang="hr">Documentary</title>
-    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.(n)</desc>
+    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83974d873bbcf55b1a577175e77f83807d330486_thumb.jpg" />
   </programme>
   <programme start="20241221210000 +0100" stop="20241221213000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241221213000 +0100" stop="20241221220000 +0100" channel="Russia Today TV">
     <title lang="hr">Going Underground</title>
-    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.(n)</desc>
+    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3d245db52a82d92bf07b8ef3fe9d54df3a762d74_thumb.jpg" />
   </programme>
   <programme start="20241221220000 +0100" stop="20241221223000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241221223000 +0100" stop="20241221230000 +0100" channel="Russia Today TV">
     <title lang="hr">Documentary</title>
-    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.(n)</desc>
+    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83974d873bbcf55b1a577175e77f83807d330486_thumb.jpg" />
   </programme>
   <programme start="20241221230000 +0100" stop="20241221233000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241221233000 +0100" stop="20241222000000 +0100" channel="Russia Today TV">
     <title lang="hr">Documentary</title>
-    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.(n)</desc>
+    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83974d873bbcf55b1a577175e77f83807d330486_thumb.jpg" />
   </programme>
   <programme start="20241222000000 +0100" stop="20241222003000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241222003000 +0100" stop="20241222010000 +0100" channel="Russia Today TV">
     <title lang="hr">Going Underground</title>
-    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.(n)</desc>
+    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3d245db52a82d92bf07b8ef3fe9d54df3a762d74_thumb.jpg" />
   </programme>
   <programme start="20241222010000 +0100" stop="20241222013000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241222013000 +0100" stop="20241222020000 +0100" channel="Russia Today TV">
     <title lang="hr">Documentary</title>
-    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.(n)</desc>
+    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83974d873bbcf55b1a577175e77f83807d330486_thumb.jpg" />
   </programme>
   <programme start="20241222020000 +0100" stop="20241222023000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241222023000 +0100" stop="20241222030000 +0100" channel="Russia Today TV">
     <title lang="hr">Going Underground</title>
-    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.(n)</desc>
+    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3d245db52a82d92bf07b8ef3fe9d54df3a762d74_thumb.jpg" />
   </programme>
   <programme start="20241222030000 +0100" stop="20241222033000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241222033000 +0100" stop="20241222040000 +0100" channel="Russia Today TV">
     <title lang="hr">Documentary</title>
-    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.(n)</desc>
+    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83974d873bbcf55b1a577175e77f83807d330486_thumb.jpg" />
   </programme>
   <programme start="20241222040000 +0100" stop="20241222043000 +0100" channel="Russia Today TV">
     <title lang="hr">Headline News</title>
-    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.(n)</desc>
+    <desc lang="hr">Comprehensive and factual coverage of the most important news and current affairs stories from around the globe, updated and analysed as they happen in each and every part of the world.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f891b8ba86313b012607e421ee3de9b3e2682016_thumb.jpg" />
   </programme>
   <programme start="20241222043000 +0100" stop="20241222050000 +0100" channel="Russia Today TV">
     <title lang="hr">Documentary</title>
-    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.(n)</desc>
+    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83974d873bbcf55b1a577175e77f83807d330486_thumb.jpg" />
   </programme>
   <programme start="20241222050000 +0100" stop="20241222053000 +0100" channel="Russia Today TV">
     <title lang="hr">Going Underground</title>
-    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.(n)</desc>
+    <desc lang="hr">Journalist Afshin Rattansi looks into different issues that are not getting enough coverage by mainstream UK media, including social and political problems.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3d245db52a82d92bf07b8ef3fe9d54df3a762d74_thumb.jpg" />
   </programme>
   <programme start="20241222053000 +0100" stop="20241222060000 +0100" channel="Russia Today TV">
     <title lang="hr">Documentary</title>
-    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.(n)</desc>
+    <desc lang="hr">Documentary on Russia Today provides a distinctive and diverse look at various spheres and events all over the world, the reasons and the consequences of the developments.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83974d873bbcf55b1a577175e77f83807d330486_thumb.jpg" />
   </programme>
   <programme start="20241218000553 +0000" stop="20241218001035 +0000" channel="Titanic TV">
